@@ -1,0 +1,50 @@
+2021-04-15 11:15:35.4542 - INFO: A new user is trying to sign in
+2021-04-15 11:15:43.8389 - INFO: Correct credentials
+2021-04-15 12:50:48.5829 - INFO: A new user is trying to sign in
+2021-04-15 12:50:56.6220 - INFO: Login failed
+2021-04-15 12:51:07.5108 - INFO: A new user is trying to sign in
+2021-04-15 12:51:08.4610 - INFO: Login failed
+2021-04-15 12:51:22.6472 - INFO: A new user is trying to sign in
+2021-04-15 12:51:23.4844 - INFO: Login failed
+2021-04-15 12:51:53.5087 - INFO: A new user is trying to sign in
+2021-04-15 12:51:55.7109 - INFO: Correct credentials
+2021-04-15 12:52:55.1949 - ERROR: Data not Found
+EXCEPTION: System.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryCloseInternal(Boolean closeReader)
+   at System.Data.SqlClient.SqlDataReader.Close()
+   at System.Data.Common.DbDataReader.Dispose(Boolean disposing)
+   at System.Data.Common.DbDataReader.Dispose()
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.Finally()
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.Dispose()
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at FOS.Setup.ManageRetailer.SOVisitsToday() in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\ManageRetailer.cs:line 86
+ClientConnectionId:d89b8a43-04b7-4df2-be9c-dbf86109e707
+Error Number:-2,State:0,Class:11
+2021-04-15 16:15:19.9227 - INFO: A new user is trying to sign in
+2021-04-15 16:15:27.2802 - INFO: Login failed
+2021-04-15 16:15:36.4070 - INFO: A new user is trying to sign in
+2021-04-15 16:15:38.2595 - INFO: Correct credentials
+2021-04-15 16:17:05.1894 - ERROR: Data not Found
+EXCEPTION: System.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryCloseInternal(Boolean closeReader)
+   at System.Data.SqlClient.SqlDataReader.Close()
+   at System.Data.Common.DbDataReader.Dispose(Boolean disposing)
+   at System.Data.Common.DbDataReader.Dispose()
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.Finally()
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.Dispose()
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at FOS.Setup.ManageRetailer.SOVisitsToday() in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\ManageRetailer.cs:line 86
+ClientConnectionId:26c1d931-f3c8-4b08-894b-80ec0641b028
+Error Number:-2,State:0,Class:11

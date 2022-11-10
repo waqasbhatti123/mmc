@@ -1,0 +1,40 @@
+2020-12-19 12:41:37.1498 - INFO: A new user is trying to sign in
+2020-12-19 12:41:43.7151 - INFO: Correct credentials
+2020-12-19 12:48:15.7058 - INFO: A new user is trying to sign in
+2020-12-19 12:48:22.1508 - INFO: Login failed
+2020-12-19 12:48:31.3627 - INFO: A new user is trying to sign in
+2020-12-19 12:48:33.7695 - INFO: Correct credentials
+2020-12-19 12:52:00.6711 - INFO: A new user is trying to sign in
+2020-12-19 12:52:12.6064 - INFO: Correct credentials
+2020-12-19 12:58:21.7046 - INFO: A new user is trying to sign in
+2020-12-19 12:58:28.1662 - INFO: Correct credentials
+2020-12-19 13:03:38.4218 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: One or more parameters required to run the report have not been specified.
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.ValidateReportParameters()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.PrepareForExecution()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2290
+2020-12-19 13:03:59.3547 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: One or more parameters required to run the report have not been specified.
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.ValidateReportParameters()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.PrepareForExecution()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2290

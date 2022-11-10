@@ -1,0 +1,290 @@
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\NLog.config
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\FOS.Setup.dll.config
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\FOS.Setup.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\FOS.Setup.pdb
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\EntityFramework.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\EntityFramework.SqlServer.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\FluentValidation.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\FOS.DataLayer.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\FOS.Shared.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\NLog.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\System.Web.Mvc.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\FOS.DataLayer.pdb
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\FOS.Shared.pdb
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\EntityFramework.xml
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\EntityFramework.SqlServer.xml
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\FluentValidation.pdb
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\FluentValidation.xml
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\NLog.xml
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\cs\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\da\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\de\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\es\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\fa\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\fi\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\fr\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\it\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\ko\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\mk\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\nl\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\pl\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\pt\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\ru\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\sv\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\tr\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\obj\Debug\FOS.Setup.csprojResolveAssemblyReference.cache
+D:\TSOFT\GPSALE\6-25-2019\Setup\obj\Debug\FOS.Setup.dll
+D:\TSOFT\GPSALE\6-25-2019\Setup\obj\Debug\FOS.Setup.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\NLog.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FOS.Setup.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FOS.Setup.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FOS.Setup.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\EntityFramework.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\EntityFramework.SqlServer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FluentValidation.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FOS.DataLayer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FOS.Shared.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\NLog.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\System.Web.Mvc.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FOS.DataLayer.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FOS.DataLayer.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FOS.Shared.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FOS.Shared.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\EntityFramework.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\EntityFramework.SqlServer.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FluentValidation.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\FluentValidation.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\NLog.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\cs\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\da\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\de\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\es\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\fa\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\fi\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\fr\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\it\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\ko\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\mk\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\nl\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\pl\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\pt\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\ru\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\sv\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\tr\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\obj\Debug\FOS.Setup.csprojAssemblyReference.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\obj\Debug\FOS.Setup.csproj.CoreCompileInputs.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\obj\Debug\FOS.Setup.csproj.CopyComplete
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\obj\Debug\FOS.Setup.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\obj\Debug\FOS.Setup.pdb
+D:\Panda\Panda\Project\Setup\bin\Debug\NLog.config
+D:\Panda\Panda\Project\Setup\bin\Debug\FOS.Setup.dll.config
+D:\Panda\Panda\Project\Setup\bin\Debug\FOS.Setup.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\FOS.Setup.pdb
+D:\Panda\Panda\Project\Setup\bin\Debug\EntityFramework.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\EntityFramework.SqlServer.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\FluentValidation.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\FOS.DataLayer.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\FOS.Shared.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\NLog.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\System.Web.Mvc.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\FOS.DataLayer.pdb
+D:\Panda\Panda\Project\Setup\bin\Debug\FOS.DataLayer.dll.config
+D:\Panda\Panda\Project\Setup\bin\Debug\FOS.Shared.pdb
+D:\Panda\Panda\Project\Setup\bin\Debug\FOS.Shared.dll.config
+D:\Panda\Panda\Project\Setup\bin\Debug\EntityFramework.xml
+D:\Panda\Panda\Project\Setup\bin\Debug\EntityFramework.SqlServer.xml
+D:\Panda\Panda\Project\Setup\bin\Debug\FluentValidation.pdb
+D:\Panda\Panda\Project\Setup\bin\Debug\FluentValidation.xml
+D:\Panda\Panda\Project\Setup\bin\Debug\NLog.xml
+D:\Panda\Panda\Project\Setup\bin\Debug\cs\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\da\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\de\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\es\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\fa\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\fi\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\fr\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\it\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\ko\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\mk\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\nl\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\pl\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\pt\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\ru\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\sv\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\tr\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\Panda\Panda\Project\Setup\obj\Debug\FOS.Setup.csprojAssemblyReference.cache
+D:\Panda\Panda\Project\Setup\obj\Debug\FOS.Setup.csproj.CoreCompileInputs.cache
+D:\Panda\Panda\Project\Setup\obj\Debug\FOS.Setup.csproj.CopyComplete
+D:\Panda\Panda\Project\Setup\obj\Debug\FOS.Setup.dll
+D:\Panda\Panda\Project\Setup\obj\Debug\FOS.Setup.pdb
+D:\MMC\MMC\Project\Setup\bin\Debug\NLog.config
+D:\MMC\MMC\Project\Setup\bin\Debug\FOS.Setup.dll.config
+D:\MMC\MMC\Project\Setup\bin\Debug\FOS.Setup.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\FOS.Setup.pdb
+D:\MMC\MMC\Project\Setup\bin\Debug\EntityFramework.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\EntityFramework.SqlServer.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\FluentValidation.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\FOS.DataLayer.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\FOS.Shared.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\NLog.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\System.Web.Mvc.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\FOS.DataLayer.pdb
+D:\MMC\MMC\Project\Setup\bin\Debug\FOS.DataLayer.dll.config
+D:\MMC\MMC\Project\Setup\bin\Debug\FOS.Shared.pdb
+D:\MMC\MMC\Project\Setup\bin\Debug\FOS.Shared.dll.config
+D:\MMC\MMC\Project\Setup\bin\Debug\EntityFramework.xml
+D:\MMC\MMC\Project\Setup\bin\Debug\EntityFramework.SqlServer.xml
+D:\MMC\MMC\Project\Setup\bin\Debug\FluentValidation.pdb
+D:\MMC\MMC\Project\Setup\bin\Debug\FluentValidation.xml
+D:\MMC\MMC\Project\Setup\bin\Debug\NLog.xml
+D:\MMC\MMC\Project\Setup\bin\Debug\cs\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\da\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\de\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\es\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\fa\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\fi\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\fr\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\it\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\ko\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\mk\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\nl\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\pl\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\pt\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\ru\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\sv\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\tr\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\MMC\MMC\Project\Setup\obj\Debug\FOS.Setup.csprojAssemblyReference.cache
+D:\MMC\MMC\Project\Setup\obj\Debug\FOS.Setup.csproj.CoreCompileInputs.cache
+D:\MMC\MMC\Project\Setup\obj\Debug\FOS.Setup.csproj.CopyComplete
+D:\MMC\MMC\Project\Setup\obj\Debug\FOS.Setup.dll
+D:\MMC\MMC\Project\Setup\obj\Debug\FOS.Setup.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\NLog.config
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FOS.Setup.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FOS.Setup.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FOS.Setup.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\EntityFramework.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\EntityFramework.SqlServer.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FluentValidation.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FOS.DataLayer.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FOS.Shared.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\NLog.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\System.Web.Mvc.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FOS.DataLayer.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FOS.DataLayer.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FOS.Shared.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FOS.Shared.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\EntityFramework.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\EntityFramework.SqlServer.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FluentValidation.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\FluentValidation.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\NLog.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\cs\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\da\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\de\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\es\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\fa\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\fi\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\fr\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\it\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\ko\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\mk\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\nl\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\pl\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\pt\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\ru\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\sv\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\tr\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\obj\Debug\FOS.Setup.csprojAssemblyReference.cache
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\obj\Debug\FOS.Setup.csproj.CoreCompileInputs.cache
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\obj\Debug\FOS.Setup.csproj.CopyComplete
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\obj\Debug\FOS.Setup.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Setup\obj\Debug\FOS.Setup.pdb
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\NLog.config
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FOS.Setup.dll.config
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FOS.Setup.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FOS.Setup.pdb
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\EntityFramework.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\EntityFramework.SqlServer.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FluentValidation.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FOS.DataLayer.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FOS.Shared.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\NLog.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\System.Web.Mvc.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FOS.DataLayer.pdb
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FOS.DataLayer.dll.config
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FOS.Shared.pdb
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FOS.Shared.dll.config
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\EntityFramework.xml
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\EntityFramework.SqlServer.xml
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FluentValidation.pdb
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\FluentValidation.xml
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\NLog.xml
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\cs\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\da\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\de\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\es\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\fa\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\fi\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\fr\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\it\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\ko\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\mk\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\nl\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\pl\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\pt\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\ru\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\sv\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\tr\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\Setup\obj\Debug\FOS.Setup.csproj.CoreCompileInputs.cache
+D:\MudassarSahb\MMC\Project\Setup\obj\Debug\FOS.Setup.csproj.CopyComplete
+D:\MudassarSahb\MMC\Project\Setup\obj\Debug\FOS.Setup.dll
+D:\MudassarSahb\MMC\Project\Setup\obj\Debug\FOS.Setup.pdb
+D:\MudassarSahb\MMC\Project\Setup\obj\Debug\FOS.Setup.csprojAssemblyReference.cache
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\NLog.config
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FOS.Setup.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FOS.Setup.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FOS.Setup.pdb
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\EntityFramework.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\EntityFramework.SqlServer.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FluentValidation.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FOS.DataLayer.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FOS.Shared.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\NLog.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\System.Web.Mvc.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FOS.DataLayer.pdb
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FOS.DataLayer.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FOS.Shared.pdb
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FOS.Shared.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\EntityFramework.xml
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\EntityFramework.SqlServer.xml
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FluentValidation.pdb
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\FluentValidation.xml
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\NLog.xml
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\cs\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\da\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\de\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\es\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\fa\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\fi\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\fr\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\it\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\ko\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\mk\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\nl\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\pl\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\pt\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\ru\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\sv\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\tr\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\bin\Debug\zh-CN\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\obj\Debug\FOS.Setup.csprojAssemblyReference.cache
+F:\ZamZamProjects\Project\Project081122\Project\Setup\obj\Debug\FOS.Setup.csproj.CoreCompileInputs.cache
+F:\ZamZamProjects\Project\Project081122\Project\Setup\obj\Debug\FOS.Setup.csproj.CopyComplete
+F:\ZamZamProjects\Project\Project081122\Project\Setup\obj\Debug\FOS.Setup.dll
+F:\ZamZamProjects\Project\Project081122\Project\Setup\obj\Debug\FOS.Setup.pdb

@@ -1,0 +1,89 @@
+2022-09-16 00:15:53.5049 - INFO: A new user is trying to sign in
+2022-09-16 00:15:57.0053 - INFO: Correct credentials
+2022-09-16 13:00:19.5119 - INFO: A new user is trying to sign in
+2022-09-16 13:00:26.5592 - INFO: Correct credentials
+2022-09-16 13:06:30.4588 - INFO: A new user is trying to sign in
+2022-09-16 13:06:37.5894 - INFO: Correct credentials
+2022-09-16 13:50:53.2357 - INFO: A new user is trying to sign in
+2022-09-16 13:51:15.3412 - INFO: Correct credentials
+2022-09-16 14:05:34.1705 - INFO: A new user is trying to sign in
+2022-09-16 14:05:40.1684 - INFO: Correct credentials
+2022-09-16 14:40:42.0335 - INFO: A new user is trying to sign in
+2022-09-16 14:40:51.6191 - INFO: Correct credentials
+2022-09-16 15:31:41.9722 - INFO: A new user is trying to sign in
+2022-09-16 15:31:55.0843 - INFO: Correct credentials
+2022-09-16 15:36:44.2178 - ERROR: Report Not Working
+EXCEPTION: System.Data.Entity.Core.EntityCommandExecutionException: The data reader is incompatible with the specified 'FOS_WallCoatModel.sp_GetSSVisitSummary_Result'. A member of the type, 'RegionName1', does not have a corresponding column in the data reader with the same name.
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetMemberOrdinalFromReader(DbDataReader storeDataReader, EdmMember member, EdmType currentType, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetColumnMapsForType(DbDataReader storeDataReader, EdmType edmType, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.CreateColumnMapFromReaderAndType(DbDataReader storeDataReader, EdmType edmType, EntitySet entitySet, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.CreateFunctionImportStructuralTypeColumnMap(DbDataReader storeDataReader, FunctionImportMappingNonComposable mapping, Int32 resultSetIndex, EntitySet entitySet, StructuralType baseStructuralType)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.FunctionColumnMapGenerator.System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.IColumnMapGenerator.CreateColumnMap(DbDataReader reader)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.CreateColumnMap(DbDataReader storeDataReader, Int32 resultSetIndex)
+   at System.Data.Entity.Core.Objects.ObjectContext.MaterializedDataRecord[TElement](EntityCommand entityCommand, DbDataReader storeReader, Int32 resultSetIndex, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ShaperFactory`1 shaperFactory, MergeOption mergeOption, Boolean streaming)
+   at System.Data.Entity.Core.Objects.ObjectContext.CreateFunctionObjectResult[TElement](EntityCommand entityCommand, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ExecutionOptions executionOptions)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__46()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__45()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ExecutionOptions executionOptions, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, MergeOption mergeOption, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ObjectParameter[] parameters)
+   at FOS.DataLayer.FOSDataModel.sp_GetSSVisitSummary(Nullable`1 datefrom, Nullable`1 dateto, Nullable`1 rHID, Nullable`1 sOID, Nullable`1 cityId) in D:\MudassarSahb\MMC\Project\FOS.Services\FOSDataModel.Context.cs:line 4531
+   at FOS.Web.UI.Controllers.ReportsController.SSVisitSummaryRpt(String StartingDate, String EndingDate, Int32 TID, Int32 fosid, Int32 cityId) in D:\MudassarSahb\MMC\Project\FOS.Web.UI\Controllers\ReportsController.cs:line 2789
+2022-09-16 15:37:10.3464 - ERROR: Report Not Working
+EXCEPTION: System.Data.Entity.Core.EntityCommandExecutionException: The data reader is incompatible with the specified 'FOS_WallCoatModel.sp_GetSSVisitSummary_Result'. A member of the type, 'RegionName1', does not have a corresponding column in the data reader with the same name.
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetMemberOrdinalFromReader(DbDataReader storeDataReader, EdmMember member, EdmType currentType, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetColumnMapsForType(DbDataReader storeDataReader, EdmType edmType, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.CreateColumnMapFromReaderAndType(DbDataReader storeDataReader, EdmType edmType, EntitySet entitySet, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.CreateFunctionImportStructuralTypeColumnMap(DbDataReader storeDataReader, FunctionImportMappingNonComposable mapping, Int32 resultSetIndex, EntitySet entitySet, StructuralType baseStructuralType)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.FunctionColumnMapGenerator.System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.IColumnMapGenerator.CreateColumnMap(DbDataReader reader)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.CreateColumnMap(DbDataReader storeDataReader, Int32 resultSetIndex)
+   at System.Data.Entity.Core.Objects.ObjectContext.MaterializedDataRecord[TElement](EntityCommand entityCommand, DbDataReader storeReader, Int32 resultSetIndex, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ShaperFactory`1 shaperFactory, MergeOption mergeOption, Boolean streaming)
+   at System.Data.Entity.Core.Objects.ObjectContext.CreateFunctionObjectResult[TElement](EntityCommand entityCommand, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ExecutionOptions executionOptions)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__46()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__45()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ExecutionOptions executionOptions, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, MergeOption mergeOption, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ObjectParameter[] parameters)
+   at FOS.DataLayer.FOSDataModel.sp_GetSSVisitSummary(Nullable`1 datefrom, Nullable`1 dateto, Nullable`1 rHID, Nullable`1 sOID, Nullable`1 cityId) in D:\MudassarSahb\MMC\Project\FOS.Services\FOSDataModel.Context.cs:line 4531
+   at FOS.Web.UI.Controllers.ReportsController.SSVisitSummaryRpt(String StartingDate, String EndingDate, Int32 TID, Int32 fosid, Int32 cityId) in D:\MudassarSahb\MMC\Project\FOS.Web.UI\Controllers\ReportsController.cs:line 2789
+2022-09-16 15:37:17.3178 - ERROR: Report Not Working
+EXCEPTION: System.Data.Entity.Core.EntityCommandExecutionException: The data reader is incompatible with the specified 'FOS_WallCoatModel.sp_GetSSVisitSummary_Result'. A member of the type, 'RegionName1', does not have a corresponding column in the data reader with the same name.
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetMemberOrdinalFromReader(DbDataReader storeDataReader, EdmMember member, EdmType currentType, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetColumnMapsForType(DbDataReader storeDataReader, EdmType edmType, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.CreateColumnMapFromReaderAndType(DbDataReader storeDataReader, EdmType edmType, EntitySet entitySet, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.CreateFunctionImportStructuralTypeColumnMap(DbDataReader storeDataReader, FunctionImportMappingNonComposable mapping, Int32 resultSetIndex, EntitySet entitySet, StructuralType baseStructuralType)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.FunctionColumnMapGenerator.System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.IColumnMapGenerator.CreateColumnMap(DbDataReader reader)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.CreateColumnMap(DbDataReader storeDataReader, Int32 resultSetIndex)
+   at System.Data.Entity.Core.Objects.ObjectContext.MaterializedDataRecord[TElement](EntityCommand entityCommand, DbDataReader storeReader, Int32 resultSetIndex, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ShaperFactory`1 shaperFactory, MergeOption mergeOption, Boolean streaming)
+   at System.Data.Entity.Core.Objects.ObjectContext.CreateFunctionObjectResult[TElement](EntityCommand entityCommand, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ExecutionOptions executionOptions)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__46()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__45()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ExecutionOptions executionOptions, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, MergeOption mergeOption, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ObjectParameter[] parameters)
+   at FOS.DataLayer.FOSDataModel.sp_GetSSVisitSummary(Nullable`1 datefrom, Nullable`1 dateto, Nullable`1 rHID, Nullable`1 sOID, Nullable`1 cityId) in D:\MudassarSahb\MMC\Project\FOS.Services\FOSDataModel.Context.cs:line 4531
+   at FOS.Web.UI.Controllers.ReportsController.SSVisitSummaryRpt(String StartingDate, String EndingDate, Int32 TID, Int32 fosid, Int32 cityId) in D:\MudassarSahb\MMC\Project\FOS.Web.UI\Controllers\ReportsController.cs:line 2789
+2022-09-16 15:39:44.6999 - INFO: A new user is trying to sign in
+2022-09-16 15:40:22.8738 - INFO: Correct credentials
+2022-09-16 15:47:48.6529 - INFO: A new user is trying to sign in
+2022-09-16 15:47:59.4386 - INFO: Correct credentials
+2022-09-16 15:50:27.2523 - ERROR: Report Not Working
+EXCEPTION: System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object[] args)
+   at FOS.Web.UI.Controllers.ReportsController.SSVisitSummaryRpt(String StartingDate, String EndingDate, Int32 TID, Int32 fosid, Int32 cityId) in D:\MudassarSahb\MMC\Project\FOS.Web.UI\Controllers\ReportsController.cs:line 2851
+2022-09-16 15:54:39.4504 - INFO: A new user is trying to sign in
+2022-09-16 15:54:48.1981 - INFO: Correct credentials
+2022-09-16 16:02:12.8234 - INFO: A new user is trying to sign in
+2022-09-16 16:02:21.8900 - INFO: Correct credentials
+2022-09-16 16:06:22.5866 - INFO: A new user is trying to sign in
+2022-09-16 16:06:29.4909 - INFO: Correct credentials
+2022-09-16 16:11:01.6847 - INFO: A new user is trying to sign in
+2022-09-16 16:11:09.9810 - INFO: Correct credentials

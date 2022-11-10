@@ -1,0 +1,97 @@
+2021-02-22 11:29:20.6140 - INFO: A new user is trying to sign in
+2021-02-22 11:29:20.8129 - INFO: Login failed
+2021-02-22 11:29:26.3825 - INFO: A new user is trying to sign in
+2021-02-22 11:29:26.6271 - INFO: Correct credentials
+2021-02-22 11:36:12.2268 - INFO: A new user is trying to sign in
+2021-02-22 11:36:15.5157 - INFO: Correct credentials
+2021-02-22 11:49:47.1956 - INFO: A new user is trying to sign in
+2021-02-22 11:49:47.5029 - INFO: Correct credentials
+2021-02-22 12:11:45.9685 - INFO: A new user is trying to sign in
+2021-02-22 12:11:52.4817 - INFO: Correct credentials
+2021-02-22 12:19:35.5586 - INFO: A new user is trying to sign in
+2021-02-22 12:19:41.7009 - INFO: Correct credentials
+2021-02-22 12:29:34.5394 - INFO: A new user is trying to sign in
+2021-02-22 12:29:35.0231 - INFO: Correct credentials
+2021-02-22 12:31:19.7351 - INFO: A new user is trying to sign in
+2021-02-22 12:31:26.4031 - INFO: Correct credentials
+2021-02-22 12:34:02.1565 - INFO: A new user is trying to sign in
+2021-02-22 12:34:09.0465 - INFO: Correct credentials
+2021-02-22 12:36:42.4916 - INFO: A new user is trying to sign in
+2021-02-22 12:36:45.9348 - INFO: Correct credentials
+2021-02-22 12:40:04.7061 - INFO: A new user is trying to sign in
+2021-02-22 12:40:08.2750 - INFO: Correct credentials
+2021-02-22 12:43:51.9328 - INFO: A new user is trying to sign in
+2021-02-22 12:43:55.2020 - INFO: Correct credentials
+2021-02-22 12:58:40.7640 - INFO: A new user is trying to sign in
+2021-02-22 12:58:44.6146 - INFO: Correct credentials
+2021-02-22 12:59:29.0083 - INFO: A new user is trying to sign in
+2021-02-22 12:59:29.0283 - INFO: Correct credentials
+2021-02-22 13:45:28.4195 - INFO: A new user is trying to sign in
+2021-02-22 13:45:31.6345 - INFO: Correct credentials
+2021-02-22 15:09:03.5786 - INFO: A new user is trying to sign in
+2021-02-22 15:09:14.2735 - INFO: Correct credentials
+2021-02-22 15:11:46.5674 - INFO: A new user is trying to sign in
+2021-02-22 15:11:53.6915 - INFO: Correct credentials
+2021-02-22 15:15:44.8584 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: One or more parameters required to run the report have not been specified.
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.ValidateReportParameters()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.PrepareForExecution()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.DailyPerformanceKPIDetails(String StartingDate, String EndingDate, String Type, String Typess, Int32 RHID, Int32 SOID, String ReportType) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2641
+2021-02-22 15:19:25.1739 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: One or more parameters required to run the report have not been specified.
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.ValidateReportParameters()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.PrepareForExecution()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.DailyPerformanceKPIDetails(String StartingDate, String EndingDate, String Type, String Typess, Int32 RHID, Int32 SOID, String ReportType) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2641
+2021-02-22 15:23:23.7924 - INFO: A new user is trying to sign in
+2021-02-22 15:23:26.1310 - INFO: Correct credentials
+2021-02-22 15:27:23.7277 - INFO: A new user is trying to sign in
+2021-02-22 15:27:31.0067 - INFO: Correct credentials
+2021-02-22 15:30:22.6670 - INFO: A new user is trying to sign in
+2021-02-22 15:30:30.1338 - INFO: Correct credentials
+2021-02-22 15:32:36.8144 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: One or more parameters required to run the report have not been specified.
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.ValidateReportParameters()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.PrepareForExecution()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.DailyPerformanceKPIDetails(String StartingDate, String EndingDate, String Type, String Typess, Int32 RHID, Int32 SOID, String ReportType, Int32 RHIDD) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2641
+2021-02-22 15:34:01.9271 - INFO: A new user is trying to sign in
+2021-02-22 15:34:09.7564 - INFO: Correct credentials
+2021-02-22 15:40:53.9125 - INFO: A new user is trying to sign in
+2021-02-22 15:41:01.4331 - INFO: Correct credentials
+2021-02-22 15:56:43.5582 - INFO: A new user is trying to sign in
+2021-02-22 15:56:51.1960 - INFO: Correct credentials
+2021-02-22 16:00:14.9609 - INFO: A new user is trying to sign in
+2021-02-22 16:00:23.6509 - INFO: Correct credentials
+2021-02-22 16:01:04.0603 - INFO: A new user is trying to sign in
+2021-02-22 16:01:05.9784 - INFO: Correct credentials
+2021-02-22 16:09:34.6923 - INFO: A new user is trying to sign in
+2021-02-22 16:09:42.8814 - INFO: Correct credentials

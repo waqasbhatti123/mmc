@@ -1,0 +1,143 @@
+2019-06-26 13:49:18.5422 - INFO: A new user is trying to sign in
+2019-06-26 13:49:22.4916 - INFO: Correct credentials
+2019-06-26 13:58:20.2509 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: One or more parameters required to run the report have not been specified.
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.ValidateReportParameters()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.PrepareForExecution()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2130
+2019-06-26 13:59:09.8912 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: One or more parameters required to run the report have not been specified.
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.ValidateReportParameters()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.PrepareForExecution()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2130
+2019-06-26 14:01:29.4597 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: One or more parameters required to run the report have not been specified.
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.ValidateReportParameters()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.PrepareForExecution()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2130
+2019-06-26 14:01:38.8747 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.Reporting.DefinitionInvalidException: The definition of the report 'D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\Views\Reports\TestReport.rdlc' is invalid. ---> Microsoft.ReportingServices.ReportProcessing.ReportPublishingException: The Value expression for the text box ‘Textbox3’ refers to a non-existing report parameter ‘CityName’. Letters in the names of parameters must use the correct case.
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.InternalCreateIntermediateFormat(Stream definitionStream, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.CreateIntermediateFormat(Byte[] definition, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CompileOdpReport(PublishingContext reportPublishingContext, IDataProtection dataProtection, PublishingErrorContext errorContext, String& reportDescription, String& reportLanguage, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CreateIntermediateFormat(PublishingContext reportPublishingContext, IDataProtection dataProtection)
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.GetCompiledReport(PreviewItemContext itemContext, Boolean rebuild, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.CompileReport()
+   at Microsoft.Reporting.LocalService.Microsoft.Reporting.ILocalProcessingHost.CompileReport()
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2115
+2019-06-26 14:04:14.2730 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.Reporting.DefinitionInvalidException: The definition of the report 'D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\Views\Reports\TestReport.rdlc' is invalid. ---> Microsoft.ReportingServices.ReportProcessing.ReportPublishingException: The Value expression for the text box ‘Textbox3’ refers to a non-existing report parameter ‘CityName’. Letters in the names of parameters must use the correct case.
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.InternalCreateIntermediateFormat(Stream definitionStream, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.CreateIntermediateFormat(Byte[] definition, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CompileOdpReport(PublishingContext reportPublishingContext, IDataProtection dataProtection, PublishingErrorContext errorContext, String& reportDescription, String& reportLanguage, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CreateIntermediateFormat(PublishingContext reportPublishingContext, IDataProtection dataProtection)
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.GetCompiledReport(PreviewItemContext itemContext, Boolean rebuild, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.CompileReport()
+   at Microsoft.Reporting.LocalService.Microsoft.Reporting.ILocalProcessingHost.CompileReport()
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2115
+2019-06-26 14:17:51.7647 - ERROR: Report Not Working
+EXCEPTION: System.Data.Entity.Core.EntityCommandExecutionException: The data reader is incompatible with the specified 'FOS_WallCoatModel.Sp_OrderSummeryReportInExcel1_7_Result'. A member of the type, 'Datee', does not have a corresponding column in the data reader with the same name.
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetMemberOrdinalFromReader(DbDataReader storeDataReader, EdmMember member, EdmType currentType, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.GetColumnMapsForType(DbDataReader storeDataReader, EdmType edmType, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.CreateColumnMapFromReaderAndType(DbDataReader storeDataReader, EdmType edmType, EntitySet entitySet, Dictionary`2 renameList)
+   at System.Data.Entity.Core.Query.InternalTrees.ColumnMapFactory.CreateFunctionImportStructuralTypeColumnMap(DbDataReader storeDataReader, FunctionImportMappingNonComposable mapping, Int32 resultSetIndex, EntitySet entitySet, StructuralType baseStructuralType)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.FunctionColumnMapGenerator.System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.IColumnMapGenerator.CreateColumnMap(DbDataReader reader)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.CreateColumnMap(DbDataReader storeDataReader, Int32 resultSetIndex)
+   at System.Data.Entity.Core.Objects.ObjectContext.MaterializedDataRecord[TElement](EntityCommand entityCommand, DbDataReader storeReader, Int32 resultSetIndex, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ShaperFactory`1 shaperFactory, MergeOption mergeOption, Boolean streaming)
+   at System.Data.Entity.Core.Objects.ObjectContext.CreateFunctionObjectResult[TElement](EntityCommand entityCommand, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ExecutionOptions executionOptions)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__46()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__45()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ExecutionOptions executionOptions, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, MergeOption mergeOption, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ObjectParameter[] parameters)
+   at FOS.DataLayer.FOSDataModel.Sp_OrderSummeryReportInExcel1_7(Nullable`1 startingDate, Nullable`1 endingDate, Nullable`1 distributorID, Nullable`1 rangeID, Nullable`1 saleOfficerID) in D:\TSOFT\GPSALE\6-25-2019\FOS.Services\FOSDataModel.Context.cs:line 1873
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2085
+2019-06-26 14:25:42.9952 - INFO: A new user is trying to sign in
+2019-06-26 14:25:43.7765 - INFO: Correct credentials
+2019-06-26 15:12:05.7856 - INFO: A new user is trying to sign in
+2019-06-26 15:12:06.8012 - INFO: Correct credentials
+2019-06-26 15:34:41.8294 - INFO: A new user is trying to sign in
+2019-06-26 15:34:42.9098 - INFO: Correct credentials
+2019-06-26 15:37:17.7155 - ERROR: Report Not Working
+EXCEPTION: System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception: The wait operation timed out
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<Reader>b__c(DbCommand t, DbCommandInterceptionContext`1 c)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Internal.InterceptableDbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   at System.Data.Entity.Core.Objects.ObjectContext.CreateFunctionObjectResult[TElement](EntityCommand entityCommand, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ExecutionOptions executionOptions)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__46()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__45()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ExecutionOptions executionOptions, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, MergeOption mergeOption, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ObjectParameter[] parameters)
+   at FOS.DataLayer.FOSDataModel.Sp_OrderSummeryReportInExcelRangeWiseForDistributor1_0(Nullable`1 startingDate, Nullable`1 endingDate, Nullable`1 rangeID, Nullable`1 saleOfficerID) in D:\TSOFT\GPSALE\6-25-2019\FOS.Services\FOSDataModel.Context.cs:line 2355
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummaryForDistributor(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid) in D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2279
+2019-06-26 16:48:48.3621 - ERROR: Report Not Working
+EXCEPTION: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2113

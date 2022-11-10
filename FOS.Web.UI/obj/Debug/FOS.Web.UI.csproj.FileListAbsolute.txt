@@ -1,0 +1,1634 @@
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\NLog.config
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.Web.UI.dll.config
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.Web.UI.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.Web.UI.pdb
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Antlr3.Runtime.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\CrystalDecisions.ReportSource.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\CrystalDecisions.Shared.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.Core.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\EntityFramework.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\EntityFramework.SqlServer.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Excel.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FluentValidation.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.AdminPanel.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.DataLayer.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.Setup.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.Shared.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\itextsharp.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\itextsharp.xmlworker.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.Data.Edm.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.Data.OData.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.ReportViewer.Common.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.ReportViewer.WebForms.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Newtonsoft.Json.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\NLog.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\NLog.Web.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Net.Http.Formatting.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Spatial.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Helpers.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Http.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Http.OData.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Http.WebHost.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Mvc.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Optimization.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Razor.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.Deployment.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.Razor.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\WebGrease.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\WebMatrix.Data.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\WebMatrix.WebData.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.SqlServer.Types.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Mono.Math.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.DataLayer.pdb
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.Setup.pdb
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.Shared.pdb
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FOS.AdminPanel.pdb
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\EntityFramework.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\EntityFramework.SqlServer.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FluentValidation.pdb
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\FluentValidation.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\itextsharp.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Newtonsoft.Json.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\NLog.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\NLog.Web.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Net.Http.Formatting.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Http.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Http.OData.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Http.WebHost.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Helpers.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Mvc.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.Razor.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.Deployment.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.Razor.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\WebMatrix.Data.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\WebMatrix.WebData.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.Core.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.Data.Edm.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Microsoft.Data.OData.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\System.Spatial.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\Mono.Math.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\cs\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\da\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\de\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\es\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\fa\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\fi\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\fr\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\it\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ko\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\mk\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\nl\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\pl\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\pt\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ru\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\sv\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\tr\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\zh-CN\FluentValidation.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\de\Microsoft.Data.OData.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\es\Microsoft.Data.OData.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\it\Microsoft.Data.OData.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\de\System.Spatial.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\es\System.Spatial.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\fr\System.Spatial.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\it\System.Spatial.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ja\System.Spatial.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ko\System.Spatial.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ru\System.Spatial.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\zh-Hans\System.Spatial.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\zh-Hant\System.Spatial.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\obj\Debug\FOS.Web.UI.csprojResolveAssemblyReference.cache
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.ResolveComReference.cache
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\obj\Debug\RdlCompile.cache
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\obj\Debug\RdlCompile.compiled
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\obj\Debug\FOS.Web.UI.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Web.UI\obj\Debug\FOS.Web.UI.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\NLog.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.Web.UI.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.Web.UI.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.Web.UI.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Antlr3.Runtime.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\CrystalDecisions.ReportSource.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\CrystalDecisions.Shared.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.Core.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\EntityFramework.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\EntityFramework.SqlServer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Excel.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FluentValidation.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.AdminPanel.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.DataLayer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.Setup.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.Shared.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\itextsharp.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\itextsharp.xmlworker.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.Data.Edm.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.Data.OData.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.ReportViewer.Common.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.ReportViewer.Design.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.ReportViewer.WebForms.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.ReportViewer.WinForms.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.SqlServer.Types.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Newtonsoft.Json.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\NLog.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\NLog.Web.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Net.Http.Formatting.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Spatial.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Helpers.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Http.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Http.OData.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Http.WebHost.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Mvc.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Optimization.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Razor.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.Deployment.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.Razor.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\WebGrease.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\WebMatrix.Data.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\WebMatrix.WebData.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\EnvDTE.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\EnvDTE80.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\stdole.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Mono.Math.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.MSXML.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.DataLayer.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.DataLayer.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.Setup.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.Setup.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.Shared.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.Shared.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.AdminPanel.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FOS.AdminPanel.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\EntityFramework.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\EntityFramework.SqlServer.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FluentValidation.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\FluentValidation.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\itextsharp.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Newtonsoft.Json.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\NLog.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\NLog.Web.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Net.Http.Formatting.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Http.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Http.OData.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Http.WebHost.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Helpers.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Mvc.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.Razor.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.Deployment.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Web.WebPages.Razor.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\WebMatrix.Data.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\WebMatrix.WebData.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.Core.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.Data.Edm.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Microsoft.Data.OData.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\System.Spatial.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\Mono.Math.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\cs\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\da\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\de\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\es\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fa\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fi\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fr\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\it\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ko\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\mk\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\nl\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pl\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pt\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ru\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\sv\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\tr\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CN\FluentValidation.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\de\Microsoft.Data.OData.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\es\Microsoft.Data.OData.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\it\Microsoft.Data.OData.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\de\System.Spatial.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\es\System.Spatial.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\fr\System.Spatial.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\it\System.Spatial.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ja\System.Spatial.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ko\System.Spatial.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\ru\System.Spatial.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-Hans\System.Spatial.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\bin\zh-Hant\System.Spatial.resources.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\obj\Debug\FOS.Web.UI.csprojAssemblyReference.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.ResolveComReference.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\obj\Debug\RdlCompile.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\obj\Debug\RdlCompile.compiled
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CoreCompileInputs.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CopyComplete
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\obj\Debug\FOS.Web.UI.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\obj\Debug\FOS.Web.UI.pdb
+D:\Panda\Panda\Project\FOS.Web.UI\bin\NLog.config
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.Web.UI.dll.config
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.Web.UI.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.Web.UI.pdb
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Antlr3.Runtime.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\CrystalDecisions.ReportSource.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\CrystalDecisions.Shared.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.Core.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\EntityFramework.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\EntityFramework.SqlServer.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Excel.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FluentValidation.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.AdminPanel.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.DataLayer.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.Setup.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.Shared.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\itextsharp.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\itextsharp.xmlworker.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.Data.Edm.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.Data.OData.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.Common.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.Design.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.SqlServer.Types.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Newtonsoft.Json.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\NLog.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\NLog.Web.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Net.Http.Formatting.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Spatial.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Helpers.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Http.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Http.OData.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Http.WebHost.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Mvc.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Optimization.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Razor.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.WebPages.Deployment.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.WebPages.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.WebPages.Razor.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\WebGrease.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\WebMatrix.Data.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\WebMatrix.WebData.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\EnvDTE.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\EnvDTE80.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\stdole.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Mono.Math.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.MSXML.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.DataLayer.pdb
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.DataLayer.dll.config
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.Setup.pdb
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.Setup.dll.config
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.Shared.pdb
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.Shared.dll.config
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.AdminPanel.pdb
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FOS.AdminPanel.dll.config
+D:\Panda\Panda\Project\FOS.Web.UI\bin\EntityFramework.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\EntityFramework.SqlServer.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FluentValidation.pdb
+D:\Panda\Panda\Project\FOS.Web.UI\bin\FluentValidation.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\itextsharp.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Newtonsoft.Json.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\NLog.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\NLog.Web.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Net.Http.Formatting.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Http.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Http.OData.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Http.WebHost.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Helpers.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Mvc.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.Razor.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.WebPages.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.WebPages.Deployment.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Web.WebPages.Razor.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\WebMatrix.Data.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\WebMatrix.WebData.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.Core.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.Data.Edm.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Microsoft.Data.OData.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\System.Spatial.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\Mono.Math.xml
+D:\Panda\Panda\Project\FOS.Web.UI\bin\cs\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\da\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\de\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\es\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fa\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fi\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fr\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\it\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ko\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\mk\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\nl\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pl\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pt\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ru\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\sv\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\tr\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CN\FluentValidation.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\de\Microsoft.Data.OData.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\es\Microsoft.Data.OData.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\it\Microsoft.Data.OData.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\de\System.Spatial.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\es\System.Spatial.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\fr\System.Spatial.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\it\System.Spatial.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ja\System.Spatial.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ko\System.Spatial.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\ru\System.Spatial.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-Hans\System.Spatial.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\bin\zh-Hant\System.Spatial.resources.dll
+D:\Panda\Panda\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csprojAssemblyReference.cache
+D:\Panda\Panda\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.ResolveComReference.cache
+D:\Panda\Panda\Project\FOS.Web.UI\obj\Debug\RdlCompile.cache
+D:\Panda\Panda\Project\FOS.Web.UI\obj\Debug\RdlCompile.compiled
+D:\Panda\Panda\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CoreCompileInputs.cache
+D:\Panda\Panda\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CopyComplete
+D:\Panda\Panda\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.dll
+D:\Panda\Panda\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.pdb
+D:\MMC\MMC\Project\FOS.Web.UI\bin\NLog.config
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Web.UI.dll.config
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Web.UI.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Web.UI.pdb
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Antlr3.Runtime.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\CrystalDecisions.ReportSource.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\CrystalDecisions.Shared.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.Core.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\EntityFramework.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\EntityFramework.SqlServer.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Excel.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FluentValidation.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.AdminPanel.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.DataLayer.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Setup.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Shared.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\itextsharp.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\itextsharp.xmlworker.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.Edm.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.OData.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.Common.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.Design.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WebForms.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WinForms.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.SqlServer.Types.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Newtonsoft.Json.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\NLog.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\NLog.Web.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Net.Http.Formatting.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Spatial.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Helpers.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.OData.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.WebHost.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Mvc.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Optimization.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Razor.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Deployment.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Razor.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\WebGrease.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\WebMatrix.Data.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\WebMatrix.WebData.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\EnvDTE.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\EnvDTE80.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\stdole.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Mono.Math.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.MSXML.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.DataLayer.pdb
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.DataLayer.dll.config
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Setup.pdb
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Setup.dll.config
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Shared.pdb
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Shared.dll.config
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.AdminPanel.pdb
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FOS.AdminPanel.dll.config
+D:\MMC\MMC\Project\FOS.Web.UI\bin\EntityFramework.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\EntityFramework.SqlServer.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FluentValidation.pdb
+D:\MMC\MMC\Project\FOS.Web.UI\bin\FluentValidation.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\itextsharp.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Newtonsoft.Json.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\NLog.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\NLog.Web.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Net.Http.Formatting.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.OData.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.WebHost.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Helpers.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Mvc.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Razor.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Deployment.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Razor.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\WebMatrix.Data.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\WebMatrix.WebData.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.Core.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.Edm.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.OData.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\System.Spatial.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\Mono.Math.xml
+D:\MMC\MMC\Project\FOS.Web.UI\bin\cs\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\da\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\de\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\es\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fa\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fi\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fr\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\it\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ko\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\mk\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\nl\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pl\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pt\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ru\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\sv\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\tr\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CN\FluentValidation.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.Data.OData.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.Data.OData.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.Data.OData.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\de\System.Spatial.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\es\System.Spatial.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\fr\System.Spatial.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\it\System.Spatial.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ja\System.Spatial.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ko\System.Spatial.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\ru\System.Spatial.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hans\System.Spatial.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hant\System.Spatial.resources.dll
+D:\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csprojAssemblyReference.cache
+D:\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.ResolveComReference.cache
+D:\MMC\MMC\Project\FOS.Web.UI\obj\Debug\RdlCompile.cache
+D:\MMC\MMC\Project\FOS.Web.UI\obj\Debug\RdlCompile.compiled
+D:\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CoreCompileInputs.cache
+D:\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CopyComplete
+D:\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.dll
+D:\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\NLog.config
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Web.UI.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Web.UI.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Web.UI.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Antlr3.Runtime.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\CrystalDecisions.ReportSource.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\CrystalDecisions.Shared.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.Core.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\EntityFramework.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\EntityFramework.SqlServer.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Excel.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FluentValidation.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.AdminPanel.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.DataLayer.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Setup.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Shared.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\itextsharp.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\itextsharp.xmlworker.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.Edm.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.OData.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.Common.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.Design.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WebForms.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WinForms.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.SqlServer.Types.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Newtonsoft.Json.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\NLog.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\NLog.Web.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Net.Http.Formatting.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Spatial.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Helpers.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.OData.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.WebHost.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Mvc.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Optimization.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Razor.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Deployment.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Razor.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\WebGrease.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\WebMatrix.Data.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\WebMatrix.WebData.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\EnvDTE.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\EnvDTE80.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\stdole.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Mono.Math.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.MSXML.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.DataLayer.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.DataLayer.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Setup.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Setup.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Shared.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.Shared.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.AdminPanel.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FOS.AdminPanel.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\EntityFramework.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\EntityFramework.SqlServer.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FluentValidation.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\FluentValidation.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\itextsharp.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Newtonsoft.Json.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\NLog.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\NLog.Web.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Net.Http.Formatting.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.OData.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Http.WebHost.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Helpers.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Mvc.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.Razor.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Deployment.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Razor.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\WebMatrix.Data.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\WebMatrix.WebData.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.Core.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.Edm.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.OData.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\System.Spatial.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\Mono.Math.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\cs\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\da\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\de\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\es\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fa\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fi\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fr\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\it\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ko\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\mk\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\nl\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pl\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pt\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ru\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\sv\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\tr\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CN\FluentValidation.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\de\Microsoft.Data.OData.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\es\Microsoft.Data.OData.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\it\Microsoft.Data.OData.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\de\System.Spatial.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\es\System.Spatial.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\fr\System.Spatial.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\it\System.Spatial.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ja\System.Spatial.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ko\System.Spatial.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\ru\System.Spatial.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hans\System.Spatial.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\bin\zh-Hant\System.Spatial.resources.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csprojAssemblyReference.cache
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.ResolveComReference.cache
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\obj\Debug\RdlCompile.cache
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\obj\Debug\RdlCompile.compiled
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CoreCompileInputs.cache
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CopyComplete
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.pdb
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\NLog.config
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.Web.UI.dll.config
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.Web.UI.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.Web.UI.pdb
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Antlr3.Runtime.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\CrystalDecisions.ReportSource.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\CrystalDecisions.Shared.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.Core.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\EntityFramework.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\EntityFramework.SqlServer.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Excel.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FluentValidation.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.AdminPanel.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.DataLayer.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.Setup.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.Shared.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\itextsharp.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\itextsharp.xmlworker.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.Edm.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.OData.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.Common.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.Design.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WebForms.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WinForms.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.SqlServer.Types.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Newtonsoft.Json.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\NLog.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\NLog.Web.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Net.Http.Formatting.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Spatial.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Helpers.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Http.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Http.OData.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Http.WebHost.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Mvc.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Optimization.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Razor.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Deployment.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Razor.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\WebGrease.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\WebMatrix.Data.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\WebMatrix.WebData.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\EnvDTE.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\EnvDTE80.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\stdole.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Mono.Math.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.MSXML.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.DataLayer.pdb
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.DataLayer.dll.config
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.Setup.pdb
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.Setup.dll.config
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.Shared.pdb
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.Shared.dll.config
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.AdminPanel.pdb
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FOS.AdminPanel.dll.config
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\EntityFramework.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\EntityFramework.SqlServer.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FluentValidation.pdb
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\FluentValidation.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\itextsharp.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Newtonsoft.Json.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\NLog.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\NLog.Web.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Net.Http.Formatting.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Http.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Http.OData.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Http.WebHost.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Helpers.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Mvc.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.Razor.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Deployment.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Web.WebPages.Razor.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\WebMatrix.Data.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\WebMatrix.WebData.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.Core.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.Edm.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Microsoft.Data.OData.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\System.Spatial.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\Mono.Math.xml
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\cs\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\da\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\de\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\es\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fa\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fi\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fr\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\it\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ko\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\mk\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\nl\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pl\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pt\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ru\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\sv\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\tr\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CN\FluentValidation.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\de\Microsoft.Data.OData.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\es\Microsoft.Data.OData.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\it\Microsoft.Data.OData.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\de\System.Spatial.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\es\System.Spatial.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\fr\System.Spatial.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\it\System.Spatial.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ja\System.Spatial.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ko\System.Spatial.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\ru\System.Spatial.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-Hans\System.Spatial.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\bin\zh-Hant\System.Spatial.resources.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.ResolveComReference.cache
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CoreCompileInputs.cache
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CopyComplete
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.dll
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.pdb
+D:\MudassarSahb\MMC\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csprojAssemblyReference.cache
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\NLog.config
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.Web.UI.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.Web.UI.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.Web.UI.pdb
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Antlr3.Runtime.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\CrystalDecisions.ReportSource.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\CrystalDecisions.Shared.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.Core.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\EntityFramework.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\EntityFramework.SqlServer.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Excel.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FluentValidation.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.AdminPanel.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.DataLayer.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.Setup.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.Shared.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\itextsharp.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\itextsharp.xmlworker.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.Data.Edm.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.Data.OData.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.Common.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.DataVisualization.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.Design.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WebDesign.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WebForms.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.ReportViewer.WinForms.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.SqlServer.Types.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Newtonsoft.Json.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\NLog.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\NLog.Web.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Net.Http.Formatting.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Spatial.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Helpers.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Http.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Http.OData.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Http.WebHost.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Mvc.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Optimization.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Razor.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.WebPages.Deployment.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.WebPages.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.WebPages.Razor.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\WebGrease.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\WebMatrix.Data.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\WebMatrix.WebData.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\EnvDTE.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\EnvDTE80.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\stdole.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Mono.Math.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.MSXML.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.DataLayer.pdb
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.DataLayer.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.Setup.pdb
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.Setup.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.Shared.pdb
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.Shared.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.AdminPanel.pdb
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FOS.AdminPanel.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\EntityFramework.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\EntityFramework.SqlServer.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FluentValidation.pdb
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\FluentValidation.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\itextsharp.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Newtonsoft.Json.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\NLog.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\NLog.Web.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Net.Http.Formatting.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Http.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Http.OData.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Http.WebHost.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Helpers.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Mvc.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.Razor.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.WebPages.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.WebPages.Deployment.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Web.WebPages.Razor.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\WebMatrix.Data.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\WebMatrix.WebData.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.AspNet.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.Core.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.OAuth.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.Data.Edm.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Microsoft.Data.OData.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\System.Spatial.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Org.Mentalis.Security.Cryptography.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\Mono.Math.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\cs\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\da\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\de\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\es\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fa\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fi\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fr\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\it\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ko\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\mk\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\nl\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pl\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pt\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ru\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\sv\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\tr\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CN\FluentValidation.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\cs\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pl\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\tr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\de\Microsoft.Data.Edm.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\es\Microsoft.Data.Edm.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\it\Microsoft.Data.Edm.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\de\Microsoft.Data.OData.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\es\Microsoft.Data.OData.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fr\Microsoft.Data.OData.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\it\Microsoft.Data.OData.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ja\Microsoft.Data.OData.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ko\Microsoft.Data.OData.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ru\Microsoft.Data.OData.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\de\System.Spatial.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\es\System.Spatial.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\fr\System.Spatial.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\it\System.Spatial.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ja\System.Spatial.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ko\System.Spatial.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\ru\System.Spatial.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-Hans\System.Spatial.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\bin\zh-Hant\System.Spatial.resources.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csprojAssemblyReference.cache
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.ResolveComReference.cache
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\obj\Debug\RdlCompile.cache
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\obj\Debug\RdlCompile.compiled
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CoreCompileInputs.cache
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.csproj.CopyComplete
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Web.UI\obj\Debug\FOS.Web.UI.pdb

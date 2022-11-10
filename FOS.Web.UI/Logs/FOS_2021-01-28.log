@@ -1,0 +1,14 @@
+2021-01-28 20:20:13.9101 - INFO: A new user is trying to sign in
+2021-01-28 20:20:24.1553 - INFO: Correct credentials
+2021-01-28 21:09:32.1237 - INFO: A new user is trying to sign in
+2021-01-28 21:09:36.0648 - INFO: Correct credentials
+2021-01-28 21:30:49.1460 - INFO: A new user is trying to sign in
+2021-01-28 21:30:56.5090 - INFO: Correct credentials
+2021-01-28 21:34:18.6632 - ERROR: Report Not Working
+EXCEPTION: System.Web.HttpException (0x80070040): The remote host closed the connection. The error code is 0x80070040.
+   at System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   at System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   at System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   at System.Web.HttpResponse.Flush()
+   at System.Web.HttpResponseWrapper.Flush()
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2716

@@ -1,0 +1,23 @@
+2022-09-22 14:11:38.6812 - INFO: A new user is trying to sign in
+2022-09-22 14:11:48.1183 - INFO: Correct credentials
+2022-09-22 14:11:54.1337 - INFO: A new user is trying to sign in
+2022-09-22 14:11:58.4668 - INFO: Correct credentials
+2022-09-22 14:21:29.3489 - ERROR: Report Not Working
+EXCEPTION: System.Data.Entity.Core.EntityCommandCompilationException: An error occurred while preparing the command definition. See the inner exception for details. ---> System.InvalidOperationException: The function import 'FOSDataModel.sp_GetSSSalesSummary' cannot be executed because it is not mapped to a store function.
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.GetTargetFunctionMapping(DbFunctionCommandTree functionCommandTree)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition..ctor(DbProviderFactory storeProviderFactory, DbCommandTree commandTree, DbInterceptionContext interceptionContext, IDbDependencyResolver resolver, BridgeDataReaderFactory bridgeDataReaderFactory, ColumnMapFactory columnMapFactory)
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition..ctor(DbProviderFactory storeProviderFactory, DbCommandTree commandTree, DbInterceptionContext interceptionContext, IDbDependencyResolver resolver, BridgeDataReaderFactory bridgeDataReaderFactory, ColumnMapFactory columnMapFactory)
+   at System.Data.Entity.Core.EntityClient.EntityCommand.CreateCommandDefinition()
+   at System.Data.Entity.Core.EntityClient.EntityCommand.TryGetEntityCommandDefinitionFromQueryCache(EntityCommandDefinition& entityCommandDefinition)
+   at System.Data.Entity.Core.EntityClient.EntityCommand.GetCommandDefinition()
+   at System.Data.Entity.Core.Objects.ObjectContext.CreateFunctionObjectResult[TElement](EntityCommand entityCommand, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ExecutionOptions executionOptions)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__46()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__45()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ExecutionOptions executionOptions, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, MergeOption mergeOption, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ObjectParameter[] parameters)
+   at FOS.DataLayer.FOSDataModel.sp_GetSSSalesSummary(Nullable`1 datefrom, Nullable`1 dateto, Nullable`1 rHID, Nullable`1 sOID, Nullable`1 rangeID) in D:\MudassarSahb\MMC\Project\FOS.Services\FOSDataModel.Context.cs:line 4336
+   at FOS.Web.UI.Controllers.ReportsController.SSSaleSummaryRpt(String StartingDate, String EndingDate, Int32 TID, Int32 fosid) in D:\MudassarSahb\MMC\Project\FOS.Web.UI\Controllers\ReportsController.cs:line 2405

@@ -1,0 +1,110 @@
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\NLog.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\FOS.AdminPanel.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\FOS.AdminPanel.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\FOS.AdminPanel.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\EntityFramework.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\EntityFramework.SqlServer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\FOS.DataLayer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\FOS.Shared.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\NLog.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\System.Web.Mvc.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\FOS.DataLayer.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\FOS.DataLayer.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\FOS.Shared.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\FOS.Shared.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\EntityFramework.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\EntityFramework.SqlServer.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\bin\Release\NLog.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\obj\Release\FOS.AdminPanel.csprojAssemblyReference.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\obj\Release\FOS.AdminPanel.csproj.CoreCompileInputs.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\obj\Release\FOS.AdminPanel.csproj.CopyComplete
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\obj\Release\FOS.AdminPanel.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Users\obj\Release\FOS.AdminPanel.pdb
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\NLog.config
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\FOS.AdminPanel.dll.config
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\FOS.AdminPanel.dll
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\FOS.AdminPanel.pdb
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\EntityFramework.dll
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\EntityFramework.SqlServer.dll
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\FOS.DataLayer.dll
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\FOS.Shared.dll
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\NLog.dll
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\System.Web.Mvc.dll
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\FOS.DataLayer.pdb
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\FOS.DataLayer.dll.config
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\FOS.Shared.pdb
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\FOS.Shared.dll.config
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\EntityFramework.xml
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\EntityFramework.SqlServer.xml
+D:\ServisTyres\ServisTyres\Project\Users\bin\Release\NLog.xml
+D:\ServisTyres\ServisTyres\Project\Users\obj\Release\FOS.AdminPanel.csprojAssemblyReference.cache
+D:\ServisTyres\ServisTyres\Project\Users\obj\Release\FOS.AdminPanel.csproj.CoreCompileInputs.cache
+D:\ServisTyres\ServisTyres\Project\Users\obj\Release\FOS.AdminPanel.csproj.CopyComplete
+D:\ServisTyres\ServisTyres\Project\Users\obj\Release\FOS.AdminPanel.dll
+D:\ServisTyres\ServisTyres\Project\Users\obj\Release\FOS.AdminPanel.pdb
+D:\Panda\Panda\Project\Users\bin\Release\NLog.config
+D:\Panda\Panda\Project\Users\bin\Release\FOS.AdminPanel.dll.config
+D:\Panda\Panda\Project\Users\bin\Release\FOS.AdminPanel.dll
+D:\Panda\Panda\Project\Users\bin\Release\FOS.AdminPanel.pdb
+D:\Panda\Panda\Project\Users\bin\Release\EntityFramework.dll
+D:\Panda\Panda\Project\Users\bin\Release\EntityFramework.SqlServer.dll
+D:\Panda\Panda\Project\Users\bin\Release\FOS.DataLayer.dll
+D:\Panda\Panda\Project\Users\bin\Release\FOS.Shared.dll
+D:\Panda\Panda\Project\Users\bin\Release\NLog.dll
+D:\Panda\Panda\Project\Users\bin\Release\System.Web.Mvc.dll
+D:\Panda\Panda\Project\Users\bin\Release\FOS.DataLayer.pdb
+D:\Panda\Panda\Project\Users\bin\Release\FOS.DataLayer.dll.config
+D:\Panda\Panda\Project\Users\bin\Release\FOS.Shared.pdb
+D:\Panda\Panda\Project\Users\bin\Release\FOS.Shared.dll.config
+D:\Panda\Panda\Project\Users\bin\Release\EntityFramework.xml
+D:\Panda\Panda\Project\Users\bin\Release\EntityFramework.SqlServer.xml
+D:\Panda\Panda\Project\Users\bin\Release\NLog.xml
+D:\Panda\Panda\Project\Users\obj\Release\FOS.AdminPanel.csprojAssemblyReference.cache
+D:\Panda\Panda\Project\Users\obj\Release\FOS.AdminPanel.csproj.CoreCompileInputs.cache
+D:\Panda\Panda\Project\Users\obj\Release\FOS.AdminPanel.csproj.CopyComplete
+D:\Panda\Panda\Project\Users\obj\Release\FOS.AdminPanel.dll
+D:\Panda\Panda\Project\Users\obj\Release\FOS.AdminPanel.pdb
+D:\MMC\MMC\Project\Users\bin\Release\NLog.config
+D:\MMC\MMC\Project\Users\bin\Release\FOS.AdminPanel.dll.config
+D:\MMC\MMC\Project\Users\bin\Release\FOS.AdminPanel.dll
+D:\MMC\MMC\Project\Users\bin\Release\FOS.AdminPanel.pdb
+D:\MMC\MMC\Project\Users\bin\Release\EntityFramework.dll
+D:\MMC\MMC\Project\Users\bin\Release\EntityFramework.SqlServer.dll
+D:\MMC\MMC\Project\Users\bin\Release\FOS.DataLayer.dll
+D:\MMC\MMC\Project\Users\bin\Release\FOS.Shared.dll
+D:\MMC\MMC\Project\Users\bin\Release\NLog.dll
+D:\MMC\MMC\Project\Users\bin\Release\System.Web.Mvc.dll
+D:\MMC\MMC\Project\Users\bin\Release\FOS.DataLayer.pdb
+D:\MMC\MMC\Project\Users\bin\Release\FOS.DataLayer.dll.config
+D:\MMC\MMC\Project\Users\bin\Release\FOS.Shared.pdb
+D:\MMC\MMC\Project\Users\bin\Release\FOS.Shared.dll.config
+D:\MMC\MMC\Project\Users\bin\Release\EntityFramework.xml
+D:\MMC\MMC\Project\Users\bin\Release\EntityFramework.SqlServer.xml
+D:\MMC\MMC\Project\Users\bin\Release\NLog.xml
+D:\MMC\MMC\Project\Users\obj\Release\FOS.AdminPanel.csprojAssemblyReference.cache
+D:\MMC\MMC\Project\Users\obj\Release\FOS.AdminPanel.csproj.CoreCompileInputs.cache
+D:\MMC\MMC\Project\Users\obj\Release\FOS.AdminPanel.csproj.CopyComplete
+D:\MMC\MMC\Project\Users\obj\Release\FOS.AdminPanel.dll
+D:\MMC\MMC\Project\Users\obj\Release\FOS.AdminPanel.pdb
+D:\MudassarSahb\MMC\Project\Users\bin\Release\NLog.config
+D:\MudassarSahb\MMC\Project\Users\bin\Release\FOS.AdminPanel.dll.config
+D:\MudassarSahb\MMC\Project\Users\bin\Release\FOS.AdminPanel.dll
+D:\MudassarSahb\MMC\Project\Users\bin\Release\FOS.AdminPanel.pdb
+D:\MudassarSahb\MMC\Project\Users\bin\Release\EntityFramework.dll
+D:\MudassarSahb\MMC\Project\Users\bin\Release\EntityFramework.SqlServer.dll
+D:\MudassarSahb\MMC\Project\Users\bin\Release\FOS.DataLayer.dll
+D:\MudassarSahb\MMC\Project\Users\bin\Release\FOS.Shared.dll
+D:\MudassarSahb\MMC\Project\Users\bin\Release\NLog.dll
+D:\MudassarSahb\MMC\Project\Users\bin\Release\System.Web.Mvc.dll
+D:\MudassarSahb\MMC\Project\Users\bin\Release\FOS.DataLayer.pdb
+D:\MudassarSahb\MMC\Project\Users\bin\Release\FOS.DataLayer.dll.config
+D:\MudassarSahb\MMC\Project\Users\bin\Release\FOS.Shared.pdb
+D:\MudassarSahb\MMC\Project\Users\bin\Release\FOS.Shared.dll.config
+D:\MudassarSahb\MMC\Project\Users\bin\Release\EntityFramework.xml
+D:\MudassarSahb\MMC\Project\Users\bin\Release\EntityFramework.SqlServer.xml
+D:\MudassarSahb\MMC\Project\Users\bin\Release\NLog.xml
+D:\MudassarSahb\MMC\Project\Users\obj\Release\FOS.AdminPanel.csprojAssemblyReference.cache
+D:\MudassarSahb\MMC\Project\Users\obj\Release\FOS.AdminPanel.csproj.CoreCompileInputs.cache
+D:\MudassarSahb\MMC\Project\Users\obj\Release\FOS.AdminPanel.csproj.CopyComplete
+D:\MudassarSahb\MMC\Project\Users\obj\Release\FOS.AdminPanel.dll
+D:\MudassarSahb\MMC\Project\Users\obj\Release\FOS.AdminPanel.pdb

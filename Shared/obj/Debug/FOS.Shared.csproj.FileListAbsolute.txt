@@ -1,0 +1,144 @@
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\NLog.config
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\FOS.Shared.dll.config
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\FOS.Shared.dll
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\FOS.Shared.pdb
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\EntityFramework.dll
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\EntityFramework.SqlServer.dll
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\FOS.DataLayer.dll
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\NLog.dll
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\NLog.Web.dll
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\System.Web.Mvc.dll
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\FOS.DataLayer.pdb
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\EntityFramework.xml
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\EntityFramework.SqlServer.xml
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\NLog.xml
+D:\TSOFT\GPSALE\6-25-2019\Shared\bin\Debug\NLog.Web.xml
+D:\TSOFT\GPSALE\6-25-2019\Shared\obj\Debug\FOS.Shared.csprojResolveAssemblyReference.cache
+D:\TSOFT\GPSALE\6-25-2019\Shared\obj\Debug\FOS.Shared.dll
+D:\TSOFT\GPSALE\6-25-2019\Shared\obj\Debug\FOS.Shared.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\NLog.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\FOS.Shared.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\FOS.Shared.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\FOS.Shared.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\EntityFramework.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\EntityFramework.SqlServer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\FOS.DataLayer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\NLog.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\NLog.Web.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\System.Web.Mvc.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\FOS.DataLayer.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\FOS.DataLayer.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\EntityFramework.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\EntityFramework.SqlServer.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\NLog.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\bin\Debug\NLog.Web.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\obj\Debug\FOS.Shared.csprojAssemblyReference.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\obj\Debug\FOS.Shared.csproj.CoreCompileInputs.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\obj\Debug\FOS.Shared.csproj.CopyComplete
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\obj\Debug\FOS.Shared.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Shared\obj\Debug\FOS.Shared.pdb
+D:\Panda\Panda\Project\Shared\bin\Debug\NLog.config
+D:\Panda\Panda\Project\Shared\bin\Debug\FOS.Shared.dll.config
+D:\Panda\Panda\Project\Shared\bin\Debug\FOS.Shared.dll
+D:\Panda\Panda\Project\Shared\bin\Debug\FOS.Shared.pdb
+D:\Panda\Panda\Project\Shared\bin\Debug\EntityFramework.dll
+D:\Panda\Panda\Project\Shared\bin\Debug\EntityFramework.SqlServer.dll
+D:\Panda\Panda\Project\Shared\bin\Debug\FOS.DataLayer.dll
+D:\Panda\Panda\Project\Shared\bin\Debug\NLog.dll
+D:\Panda\Panda\Project\Shared\bin\Debug\NLog.Web.dll
+D:\Panda\Panda\Project\Shared\bin\Debug\System.Web.Mvc.dll
+D:\Panda\Panda\Project\Shared\bin\Debug\FOS.DataLayer.pdb
+D:\Panda\Panda\Project\Shared\bin\Debug\FOS.DataLayer.dll.config
+D:\Panda\Panda\Project\Shared\bin\Debug\EntityFramework.xml
+D:\Panda\Panda\Project\Shared\bin\Debug\EntityFramework.SqlServer.xml
+D:\Panda\Panda\Project\Shared\bin\Debug\NLog.xml
+D:\Panda\Panda\Project\Shared\bin\Debug\NLog.Web.xml
+D:\Panda\Panda\Project\Shared\obj\Debug\FOS.Shared.csprojAssemblyReference.cache
+D:\Panda\Panda\Project\Shared\obj\Debug\FOS.Shared.csproj.CoreCompileInputs.cache
+D:\Panda\Panda\Project\Shared\obj\Debug\FOS.Shared.csproj.CopyComplete
+D:\Panda\Panda\Project\Shared\obj\Debug\FOS.Shared.dll
+D:\Panda\Panda\Project\Shared\obj\Debug\FOS.Shared.pdb
+D:\MMC\MMC\Project\Shared\bin\Debug\NLog.config
+D:\MMC\MMC\Project\Shared\bin\Debug\FOS.Shared.dll.config
+D:\MMC\MMC\Project\Shared\bin\Debug\FOS.Shared.dll
+D:\MMC\MMC\Project\Shared\bin\Debug\FOS.Shared.pdb
+D:\MMC\MMC\Project\Shared\bin\Debug\EntityFramework.dll
+D:\MMC\MMC\Project\Shared\bin\Debug\EntityFramework.SqlServer.dll
+D:\MMC\MMC\Project\Shared\bin\Debug\FOS.DataLayer.dll
+D:\MMC\MMC\Project\Shared\bin\Debug\NLog.dll
+D:\MMC\MMC\Project\Shared\bin\Debug\NLog.Web.dll
+D:\MMC\MMC\Project\Shared\bin\Debug\System.Web.Mvc.dll
+D:\MMC\MMC\Project\Shared\bin\Debug\FOS.DataLayer.pdb
+D:\MMC\MMC\Project\Shared\bin\Debug\FOS.DataLayer.dll.config
+D:\MMC\MMC\Project\Shared\bin\Debug\EntityFramework.xml
+D:\MMC\MMC\Project\Shared\bin\Debug\EntityFramework.SqlServer.xml
+D:\MMC\MMC\Project\Shared\bin\Debug\NLog.xml
+D:\MMC\MMC\Project\Shared\bin\Debug\NLog.Web.xml
+D:\MMC\MMC\Project\Shared\obj\Debug\FOS.Shared.csprojAssemblyReference.cache
+D:\MMC\MMC\Project\Shared\obj\Debug\FOS.Shared.csproj.CoreCompileInputs.cache
+D:\MMC\MMC\Project\Shared\obj\Debug\FOS.Shared.csproj.CopyComplete
+D:\MMC\MMC\Project\Shared\obj\Debug\FOS.Shared.dll
+D:\MMC\MMC\Project\Shared\obj\Debug\FOS.Shared.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\NLog.config
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\FOS.Shared.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\FOS.Shared.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\FOS.Shared.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\EntityFramework.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\EntityFramework.SqlServer.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\FOS.DataLayer.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\NLog.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\NLog.Web.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\System.Web.Mvc.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\FOS.DataLayer.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\FOS.DataLayer.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\EntityFramework.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\EntityFramework.SqlServer.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\NLog.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\bin\Debug\NLog.Web.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\obj\Debug\FOS.Shared.csprojAssemblyReference.cache
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\obj\Debug\FOS.Shared.csproj.CoreCompileInputs.cache
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\obj\Debug\FOS.Shared.csproj.CopyComplete
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\obj\Debug\FOS.Shared.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\Shared\obj\Debug\FOS.Shared.pdb
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\NLog.config
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\FOS.Shared.dll.config
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\FOS.Shared.dll
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\FOS.Shared.pdb
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\EntityFramework.dll
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\EntityFramework.SqlServer.dll
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\FOS.DataLayer.dll
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\NLog.dll
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\NLog.Web.dll
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\System.Web.Mvc.dll
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\FOS.DataLayer.pdb
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\FOS.DataLayer.dll.config
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\EntityFramework.xml
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\EntityFramework.SqlServer.xml
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\NLog.xml
+D:\MudassarSahb\MMC\Project\Shared\bin\Debug\NLog.Web.xml
+D:\MudassarSahb\MMC\Project\Shared\obj\Debug\FOS.Shared.csproj.CoreCompileInputs.cache
+D:\MudassarSahb\MMC\Project\Shared\obj\Debug\FOS.Shared.csproj.CopyComplete
+D:\MudassarSahb\MMC\Project\Shared\obj\Debug\FOS.Shared.dll
+D:\MudassarSahb\MMC\Project\Shared\obj\Debug\FOS.Shared.pdb
+D:\MudassarSahb\MMC\Project\Shared\obj\Debug\FOS.Shared.csprojAssemblyReference.cache
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\NLog.config
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\FOS.Shared.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\FOS.Shared.dll
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\FOS.Shared.pdb
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\EntityFramework.dll
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\EntityFramework.SqlServer.dll
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\FOS.DataLayer.dll
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\NLog.dll
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\NLog.Web.dll
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\System.Web.Mvc.dll
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\FOS.DataLayer.pdb
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\FOS.DataLayer.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\EntityFramework.xml
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\EntityFramework.SqlServer.xml
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\NLog.xml
+F:\ZamZamProjects\Project\Project081122\Project\Shared\bin\Debug\NLog.Web.xml
+F:\ZamZamProjects\Project\Project081122\Project\Shared\obj\Debug\FOS.Shared.csprojAssemblyReference.cache
+F:\ZamZamProjects\Project\Project081122\Project\Shared\obj\Debug\FOS.Shared.csproj.CoreCompileInputs.cache
+F:\ZamZamProjects\Project\Project081122\Project\Shared\obj\Debug\FOS.Shared.csproj.CopyComplete
+F:\ZamZamProjects\Project\Project081122\Project\Shared\obj\Debug\FOS.Shared.dll
+F:\ZamZamProjects\Project\Project081122\Project\Shared\obj\Debug\FOS.Shared.pdb

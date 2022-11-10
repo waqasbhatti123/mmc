@@ -1,0 +1,176 @@
+2021-06-14 11:36:33.0144 - INFO: A new user is trying to sign in
+2021-06-14 11:36:43.4465 - INFO: Correct credentials
+2021-06-14 11:42:19.8289 - INFO: A new user is trying to sign in
+2021-06-14 11:42:36.0280 - INFO: Correct credentials
+2021-06-14 11:45:45.9562 - INFO: A new user is trying to sign in
+2021-06-14 11:46:01.1019 - INFO: Correct credentials
+2021-06-14 11:51:39.6934 - INFO: A new user is trying to sign in
+2021-06-14 11:51:49.3048 - INFO: Correct credentials
+2021-06-14 11:59:37.9469 - INFO: A new user is trying to sign in
+2021-06-14 11:59:50.1864 - INFO: Correct credentials
+2021-06-14 12:24:50.4177 - INFO: A new user is trying to sign in
+2021-06-14 12:25:00.6884 - INFO: Correct credentials
+2021-06-14 12:27:01.1621 - ERROR: Report Not Working
+EXCEPTION: System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\TempFiles\Test_637592703658638290.pdf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at FOS.Web.UI.Controllers.SetupController.SubmitDealerDSRPrint(String cont, SchemeData tas) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 971
+2021-06-14 12:34:42.9868 - INFO: A new user is trying to sign in
+2021-06-14 12:34:54.8720 - INFO: Correct credentials
+2021-06-14 12:45:56.5732 - INFO: A new user is trying to sign in
+2021-06-14 12:46:06.0959 - INFO: Correct credentials
+2021-06-14 12:56:14.7342 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.Reporting.DefinitionInvalidException: The definition of the report 'D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Views\Reports\DealerDSR.rdlc' is invalid. ---> Microsoft.ReportingServices.ReportProcessing.ReportPublishingException: The Value expression for the textrun ‘Textbox44.Paragraphs[0].TextRuns[0]’ uses a First, Last or Previous aggregate in an outer aggregate.  These aggregate functions cannot be specified as nested aggregates.
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.InternalCreateIntermediateFormat(Stream definitionStream, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.CreateIntermediateFormat(Byte[] definition, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CompileOdpReport(PublishingContext reportPublishingContext, PublishingErrorContext errorContext, String& reportDescription, String& reportLanguage, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CreateIntermediateFormat(PublishingContext reportPublishingContext)
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.GetCompiledReport(PreviewItemContext itemContext, Boolean rebuild, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.CompileReport()
+   at Microsoft.Reporting.LocalService.Microsoft.Reporting.ILocalProcessingHost.CompileReport()
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, CreateStreamCallback createStream, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, CreateStreamCallback createStream, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.PrintReport.Export(LocalReport report, Boolean print) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 1044
+   at FOS.Web.UI.Controllers.PrintReport.PrintToPrinter(LocalReport report) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 1099
+   at FOS.Web.UI.Controllers.SetupController.SubmitDealerDSRPrint(String cont, SchemeData tas) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 954
+2021-06-14 12:57:07.8370 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.Reporting.DefinitionInvalidException: The definition of the report 'D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Views\Reports\DealerDSR.rdlc' is invalid. ---> Microsoft.ReportingServices.ReportProcessing.ReportPublishingException: The Value expression for the textrun ‘Textbox44.Paragraphs[0].TextRuns[0]’ uses a First, Last or Previous aggregate in an outer aggregate.  These aggregate functions cannot be specified as nested aggregates.
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.InternalCreateIntermediateFormat(Stream definitionStream, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.CreateIntermediateFormat(Byte[] definition, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CompileOdpReport(PublishingContext reportPublishingContext, PublishingErrorContext errorContext, String& reportDescription, String& reportLanguage, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CreateIntermediateFormat(PublishingContext reportPublishingContext)
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.GetCompiledReport(PreviewItemContext itemContext, Boolean rebuild, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.CompileReport()
+   at Microsoft.Reporting.LocalService.Microsoft.Reporting.ILocalProcessingHost.CompileReport()
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, CreateStreamCallback createStream, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, CreateStreamCallback createStream, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.PrintReport.Export(LocalReport report, Boolean print) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 1044
+   at FOS.Web.UI.Controllers.PrintReport.PrintToPrinter(LocalReport report) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 1099
+   at FOS.Web.UI.Controllers.SetupController.SubmitDealerDSRPrint(String cont, SchemeData tas) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 954
+2021-06-14 13:06:40.2546 - INFO: A new user is trying to sign in
+2021-06-14 13:06:53.8015 - INFO: Correct credentials
+2021-06-14 13:20:06.3845 - INFO: A new user is trying to sign in
+2021-06-14 13:20:15.4673 - INFO: Correct credentials
+2021-06-14 13:21:35.2267 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: One or more parameters required to run the report have not been specified.
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.ValidateReportParameters()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.PrepareForExecution()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, CreateStreamCallback createStream, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, CreateStreamCallback createStream, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.PrintReport.Export(LocalReport report, Boolean print) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 1048
+   at FOS.Web.UI.Controllers.PrintReport.PrintToPrinter(LocalReport report) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 1103
+   at FOS.Web.UI.Controllers.SetupController.SubmitDealerDSRPrint(String cont, SchemeData tas) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 958
+2021-06-14 13:21:49.0774 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: One or more parameters required to run the report have not been specified.
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.ValidateReportParameters()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.PrepareForExecution()
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, CreateStreamCallback createStream, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, CreateStreamCallback createStream, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.PrintReport.Export(LocalReport report, Boolean print) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 1048
+   at FOS.Web.UI.Controllers.PrintReport.PrintToPrinter(LocalReport report) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 1103
+   at FOS.Web.UI.Controllers.SetupController.SubmitDealerDSRPrint(String cont, SchemeData tas) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 958
+2021-06-14 13:25:56.8810 - INFO: A new user is trying to sign in
+2021-06-14 13:26:07.3739 - INFO: Correct credentials
+2021-06-14 13:34:55.9006 - INFO: A new user is trying to sign in
+2021-06-14 13:35:05.5534 - INFO: Correct credentials
+2021-06-14 15:09:49.3889 - INFO: A new user is trying to sign in
+2021-06-14 15:09:59.3846 - INFO: Correct credentials
+2021-06-14 15:20:16.0631 - INFO: A new user is trying to sign in
+2021-06-14 15:20:26.8301 - INFO: Correct credentials
+2021-06-14 15:25:10.9320 - INFO: A new user is trying to sign in
+2021-06-14 15:25:20.4830 - INFO: Correct credentials
+2021-06-14 16:44:40.8098 - INFO: A new user is trying to sign in
+2021-06-14 16:44:49.9382 - INFO: Correct credentials
+2021-06-14 17:19:48.0243 - INFO: A new user is trying to sign in
+2021-06-14 17:19:57.4253 - INFO: Correct credentials
+2021-06-14 17:39:55.7928 - INFO: A new user is trying to sign in
+2021-06-14 17:40:06.2337 - INFO: Correct credentials
+2021-06-14 20:04:28.4791 - INFO: A new user is trying to sign in
+2021-06-14 20:04:38.9976 - INFO: Correct credentials
+2021-06-14 20:06:28.8170 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.Reporting.DefinitionInvalidException: The definition of the report 'D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Views\Reports\DealerDSR.rdlc' is invalid. ---> Microsoft.ReportingServices.ReportProcessing.ReportPublishingException: The Value expression for the textrun ‘Textbox46.Paragraphs[0].TextRuns[0]’ uses a First, Last or Previous aggregate in an outer aggregate.  These aggregate functions cannot be specified as nested aggregates.
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.InternalCreateIntermediateFormat(Stream definitionStream, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.CreateIntermediateFormat(Byte[] definition, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CompileOdpReport(PublishingContext reportPublishingContext, PublishingErrorContext errorContext, String& reportDescription, String& reportLanguage, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CreateIntermediateFormat(PublishingContext reportPublishingContext)
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.GetCompiledReport(PreviewItemContext itemContext, Boolean rebuild, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.CompileReport()
+   at Microsoft.Reporting.LocalService.Microsoft.Reporting.ILocalProcessingHost.CompileReport()
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at FOS.Web.UI.Controllers.SetupController.SubmitDealerDSRPrint(String cont, SchemeData tas) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 955
+2021-06-14 20:07:45.2566 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.Reporting.DefinitionInvalidException: The definition of the report 'D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Views\Reports\DealerDSR.rdlc' is invalid. ---> Microsoft.ReportingServices.ReportProcessing.ReportPublishingException: The Value expression for the textrun ‘Textbox46.Paragraphs[0].TextRuns[0]’ uses a First, Last or Previous aggregate in an outer aggregate.  These aggregate functions cannot be specified as nested aggregates.
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.InternalCreateIntermediateFormat(Stream definitionStream, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.CreateIntermediateFormat(Byte[] definition, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CompileOdpReport(PublishingContext reportPublishingContext, PublishingErrorContext errorContext, String& reportDescription, String& reportLanguage, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CreateIntermediateFormat(PublishingContext reportPublishingContext)
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.GetCompiledReport(PreviewItemContext itemContext, Boolean rebuild, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.CompileReport()
+   at Microsoft.Reporting.LocalService.Microsoft.Reporting.ILocalProcessingHost.CompileReport()
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at FOS.Web.UI.Controllers.SetupController.SubmitDealerDSRPrint(String cont, SchemeData tas) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 955
+2021-06-14 20:07:58.3570 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.Reporting.DefinitionInvalidException: The definition of the report 'D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Views\Reports\DealerDSR.rdlc' is invalid. ---> Microsoft.ReportingServices.ReportProcessing.ReportPublishingException: The Value expression for the textrun ‘Textbox46.Paragraphs[0].TextRuns[0]’ uses a First, Last or Previous aggregate in an outer aggregate.  These aggregate functions cannot be specified as nested aggregates.
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.InternalCreateIntermediateFormat(Stream definitionStream, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportPublishing.ReportPublishing.CreateIntermediateFormat(Byte[] definition, String& description, String& language, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CompileOdpReport(PublishingContext reportPublishingContext, PublishingErrorContext errorContext, String& reportDescription, String& reportLanguage, ParameterInfoCollection& parameters, DataSourceInfoCollection& dataSources, DataSetInfoCollection& sharedDataSetReferences, UserLocationFlags& userReferenceLocation, ArrayList& dataSetsName, Boolean& hasExternalImages, Boolean& hasHyperlinks, Byte[]& dataSetsHash)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.CreateIntermediateFormat(PublishingContext reportPublishingContext)
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.ReportCompiler.CompileReport(ICatalogItemContext context, Byte[] reportDefinition, Boolean generateExpressionHostWithRefusedPermissions, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.GetCompiledReport(PreviewItemContext itemContext, Boolean rebuild, ControlSnapshot& snapshot)
+   at Microsoft.Reporting.LocalService.CompileReport()
+   at Microsoft.Reporting.LocalService.Microsoft.Reporting.ILocalProcessingHost.CompileReport()
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WebForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at FOS.Web.UI.Controllers.SetupController.SubmitDealerDSRPrint(String cont, SchemeData tas) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\SetupController.cs:line 955
+2021-06-14 20:12:19.6363 - INFO: A new user is trying to sign in
+2021-06-14 20:12:33.5438 - INFO: Correct credentials
+2021-06-14 20:15:39.9286 - INFO: A new user is trying to sign in
+2021-06-14 20:15:49.6930 - INFO: Correct credentials
+2021-06-14 20:25:28.6836 - INFO: A new user is trying to sign in
+2021-06-14 20:25:37.5131 - INFO: Correct credentials

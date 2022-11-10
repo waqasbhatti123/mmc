@@ -1,0 +1,16 @@
+2020-12-27 12:47:26.9190 - INFO: A new user is trying to sign in
+2020-12-27 12:47:33.5635 - INFO: Correct credentials
+2020-12-27 17:42:40.9893 - INFO: A new user is trying to sign in
+2020-12-27 17:42:52.4982 - INFO: Login failed
+2020-12-27 17:42:59.0601 - INFO: A new user is trying to sign in
+2020-12-27 17:42:59.7197 - INFO: Correct credentials
+2020-12-27 18:26:28.7004 - INFO: A new user is trying to sign in
+2020-12-27 18:26:28.9123 - INFO: Login failed
+2020-12-27 18:26:35.8364 - INFO: A new user is trying to sign in
+2020-12-27 18:26:36.0553 - INFO: Correct credentials
+2020-12-27 18:38:17.9548 - ERROR: Add Customer Failed
+EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object.
+   at FOS.Setup.ManageDealer.AddUpdateDistributor(RetailerData obj) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\ManageDealer.cs:line 904
+2020-12-27 18:46:20.3070 - ERROR: Add Customer Failed
+EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object.
+   at FOS.Setup.ManageDealer.AddUpdateDistributor(RetailerData obj) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\ManageDealer.cs:line 904

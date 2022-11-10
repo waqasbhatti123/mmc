@@ -1,0 +1,30 @@
+2021-07-10 14:26:13.8265 - INFO: A new user is trying to sign in
+2021-07-10 14:26:23.6147 - INFO: Correct credentials
+2021-07-10 14:32:02.8786 - INFO: A new user is trying to sign in
+2021-07-10 14:32:11.7151 - INFO: Correct credentials
+2021-07-10 14:37:06.8246 - INFO: A new user is trying to sign in
+2021-07-10 14:37:15.0123 - INFO: Correct credentials
+2021-07-10 14:42:17.1730 - ERROR: Add Item Failed
+EXCEPTION: System.InvalidOperationException: Nullable object must have a value.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Nullable`1.get_Value()
+   at FOS.Setup.ManageArea.AddUpdateItems(Items obj) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\ManageArea.cs:line 1207
+2021-07-10 14:45:37.2842 - INFO: A new user is trying to sign in
+2021-07-10 14:45:45.0107 - INFO: Correct credentials
+2021-07-10 14:48:26.2604 - ERROR: Add Item Failed
+EXCEPTION: System.InvalidOperationException: Nullable object must have a value.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Nullable`1.get_Value()
+   at FOS.Setup.ManageArea.AddUpdateItems(Items obj) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\ManageArea.cs:line 1207
+2021-07-10 14:55:59.5189 - ERROR: Add Item Failed
+EXCEPTION: System.InvalidOperationException: Nullable object must have a value.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Nullable`1.get_Value()
+   at FOS.Setup.ManageArea.AddUpdateItems(Items obj) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\ManageArea.cs:line 1207
+2021-07-10 15:02:28.2658 - ERROR: Add Item Failed
+EXCEPTION: System.InvalidOperationException: Nullable object must have a value.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Nullable`1.get_Value()
+   at FOS.Setup.ManageArea.AddUpdateItems(Items obj) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\ManageArea.cs:line 1207
+2021-07-10 15:23:29.0927 - INFO: A new user is trying to sign in
+2021-07-10 15:24:24.5674 - INFO: Correct credentials

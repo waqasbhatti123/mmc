@@ -1,0 +1,60 @@
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Release\FOS.DataLayer.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Release\FOS.DataLayer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Release\FOS.DataLayer.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Release\EntityFramework.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Release\EntityFramework.SqlServer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Release\EntityFramework.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Release\EntityFramework.SqlServer.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\obj\Release\FOS.DataLayer.csprojAssemblyReference.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\obj\Release\FOS.DataLayer.csproj.CoreCompileInputs.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\obj\Release\FOS.DataLayer.csproj.CopyComplete
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\obj\Release\FOS.DataLayer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\obj\Release\FOS.DataLayer.pdb
+D:\ServisTyres\ServisTyres\Project\FOS.Services\bin\Release\FOS.DataLayer.dll.config
+D:\ServisTyres\ServisTyres\Project\FOS.Services\bin\Release\FOS.DataLayer.dll
+D:\ServisTyres\ServisTyres\Project\FOS.Services\bin\Release\FOS.DataLayer.pdb
+D:\ServisTyres\ServisTyres\Project\FOS.Services\bin\Release\EntityFramework.dll
+D:\ServisTyres\ServisTyres\Project\FOS.Services\bin\Release\EntityFramework.SqlServer.dll
+D:\ServisTyres\ServisTyres\Project\FOS.Services\bin\Release\EntityFramework.xml
+D:\ServisTyres\ServisTyres\Project\FOS.Services\bin\Release\EntityFramework.SqlServer.xml
+D:\ServisTyres\ServisTyres\Project\FOS.Services\obj\Release\FOS.DataLayer.csprojAssemblyReference.cache
+D:\ServisTyres\ServisTyres\Project\FOS.Services\obj\Release\FOS.DataLayer.csproj.CoreCompileInputs.cache
+D:\ServisTyres\ServisTyres\Project\FOS.Services\obj\Release\FOS.DataLayer.csproj.CopyComplete
+D:\ServisTyres\ServisTyres\Project\FOS.Services\obj\Release\FOS.DataLayer.dll
+D:\ServisTyres\ServisTyres\Project\FOS.Services\obj\Release\FOS.DataLayer.pdb
+D:\Panda\Panda\Project\FOS.Services\bin\Release\FOS.DataLayer.dll.config
+D:\Panda\Panda\Project\FOS.Services\bin\Release\FOS.DataLayer.dll
+D:\Panda\Panda\Project\FOS.Services\bin\Release\FOS.DataLayer.pdb
+D:\Panda\Panda\Project\FOS.Services\bin\Release\EntityFramework.dll
+D:\Panda\Panda\Project\FOS.Services\bin\Release\EntityFramework.SqlServer.dll
+D:\Panda\Panda\Project\FOS.Services\bin\Release\EntityFramework.xml
+D:\Panda\Panda\Project\FOS.Services\bin\Release\EntityFramework.SqlServer.xml
+D:\Panda\Panda\Project\FOS.Services\obj\Release\FOS.DataLayer.csprojAssemblyReference.cache
+D:\Panda\Panda\Project\FOS.Services\obj\Release\FOS.DataLayer.csproj.CoreCompileInputs.cache
+D:\Panda\Panda\Project\FOS.Services\obj\Release\FOS.DataLayer.csproj.CopyComplete
+D:\Panda\Panda\Project\FOS.Services\obj\Release\FOS.DataLayer.dll
+D:\Panda\Panda\Project\FOS.Services\obj\Release\FOS.DataLayer.pdb
+D:\MMC\MMC\Project\FOS.Services\bin\Release\FOS.DataLayer.dll.config
+D:\MMC\MMC\Project\FOS.Services\bin\Release\FOS.DataLayer.dll
+D:\MMC\MMC\Project\FOS.Services\bin\Release\FOS.DataLayer.pdb
+D:\MMC\MMC\Project\FOS.Services\bin\Release\EntityFramework.dll
+D:\MMC\MMC\Project\FOS.Services\bin\Release\EntityFramework.SqlServer.dll
+D:\MMC\MMC\Project\FOS.Services\bin\Release\EntityFramework.xml
+D:\MMC\MMC\Project\FOS.Services\bin\Release\EntityFramework.SqlServer.xml
+D:\MMC\MMC\Project\FOS.Services\obj\Release\FOS.DataLayer.csprojAssemblyReference.cache
+D:\MMC\MMC\Project\FOS.Services\obj\Release\FOS.DataLayer.csproj.CoreCompileInputs.cache
+D:\MMC\MMC\Project\FOS.Services\obj\Release\FOS.DataLayer.csproj.CopyComplete
+D:\MMC\MMC\Project\FOS.Services\obj\Release\FOS.DataLayer.dll
+D:\MMC\MMC\Project\FOS.Services\obj\Release\FOS.DataLayer.pdb
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Release\FOS.DataLayer.dll.config
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Release\FOS.DataLayer.dll
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Release\FOS.DataLayer.pdb
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Release\EntityFramework.dll
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Release\EntityFramework.SqlServer.dll
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Release\EntityFramework.xml
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Release\EntityFramework.SqlServer.xml
+D:\MudassarSahb\MMC\Project\FOS.Services\obj\Release\FOS.DataLayer.csprojAssemblyReference.cache
+D:\MudassarSahb\MMC\Project\FOS.Services\obj\Release\FOS.DataLayer.csproj.CoreCompileInputs.cache
+D:\MudassarSahb\MMC\Project\FOS.Services\obj\Release\FOS.DataLayer.csproj.CopyComplete
+D:\MudassarSahb\MMC\Project\FOS.Services\obj\Release\FOS.DataLayer.dll
+D:\MudassarSahb\MMC\Project\FOS.Services\obj\Release\FOS.DataLayer.pdb

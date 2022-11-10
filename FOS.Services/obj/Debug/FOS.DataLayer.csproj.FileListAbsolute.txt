@@ -1,0 +1,84 @@
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\bin\Debug\FOS.DataLayer.dll.config
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\bin\Debug\FOS.DataLayer.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\bin\Debug\FOS.DataLayer.pdb
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\bin\Debug\EntityFramework.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\bin\Debug\EntityFramework.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\obj\Debug\FOS.DataLayer.csprojResolveAssemblyReference.cache
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\obj\Debug\FOS.DataLayer.dll
+D:\TSOFT\GPSALE\6-25-2019\FOS.Services\obj\Debug\FOS.DataLayer.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Debug\FOS.DataLayer.dll.config
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Debug\FOS.DataLayer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Debug\FOS.DataLayer.pdb
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Debug\EntityFramework.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Debug\EntityFramework.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\obj\Debug\FOS.DataLayer.csprojAssemblyReference.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CoreCompileInputs.cache
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CopyComplete
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\obj\Debug\FOS.DataLayer.dll
+D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\obj\Debug\FOS.DataLayer.pdb
+D:\Panda\Panda\Project\FOS.Services\bin\Debug\FOS.DataLayer.dll.config
+D:\Panda\Panda\Project\FOS.Services\bin\Debug\FOS.DataLayer.dll
+D:\Panda\Panda\Project\FOS.Services\bin\Debug\FOS.DataLayer.pdb
+D:\Panda\Panda\Project\FOS.Services\bin\Debug\EntityFramework.dll
+D:\Panda\Panda\Project\FOS.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Panda\Panda\Project\FOS.Services\bin\Debug\EntityFramework.xml
+D:\Panda\Panda\Project\FOS.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Panda\Panda\Project\FOS.Services\obj\Debug\FOS.DataLayer.csprojAssemblyReference.cache
+D:\Panda\Panda\Project\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CoreCompileInputs.cache
+D:\Panda\Panda\Project\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CopyComplete
+D:\Panda\Panda\Project\FOS.Services\obj\Debug\FOS.DataLayer.dll
+D:\Panda\Panda\Project\FOS.Services\obj\Debug\FOS.DataLayer.pdb
+D:\MMC\MMC\Project\FOS.Services\bin\Debug\FOS.DataLayer.dll.config
+D:\MMC\MMC\Project\FOS.Services\bin\Debug\FOS.DataLayer.dll
+D:\MMC\MMC\Project\FOS.Services\bin\Debug\FOS.DataLayer.pdb
+D:\MMC\MMC\Project\FOS.Services\bin\Debug\EntityFramework.dll
+D:\MMC\MMC\Project\FOS.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\MMC\MMC\Project\FOS.Services\bin\Debug\EntityFramework.xml
+D:\MMC\MMC\Project\FOS.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\MMC\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.csprojAssemblyReference.cache
+D:\MMC\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CoreCompileInputs.cache
+D:\MMC\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CopyComplete
+D:\MMC\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.dll
+D:\MMC\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\bin\Debug\FOS.DataLayer.dll.config
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\bin\Debug\FOS.DataLayer.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\bin\Debug\FOS.DataLayer.pdb
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\bin\Debug\EntityFramework.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\bin\Debug\EntityFramework.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.csprojAssemblyReference.cache
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CoreCompileInputs.cache
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CopyComplete
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.dll
+D:\ZamZamTechProjects\MMC\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.pdb
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Debug\FOS.DataLayer.dll.config
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Debug\FOS.DataLayer.dll
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Debug\FOS.DataLayer.pdb
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Debug\EntityFramework.dll
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Debug\EntityFramework.xml
+D:\MudassarSahb\MMC\Project\FOS.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\MudassarSahb\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CoreCompileInputs.cache
+D:\MudassarSahb\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CopyComplete
+D:\MudassarSahb\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.dll
+D:\MudassarSahb\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.pdb
+D:\MudassarSahb\MMC\Project\FOS.Services\obj\Debug\FOS.DataLayer.csprojAssemblyReference.cache
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\bin\Debug\FOS.DataLayer.dll.config
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\bin\Debug\FOS.DataLayer.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\bin\Debug\FOS.DataLayer.pdb
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\bin\Debug\EntityFramework.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\bin\Debug\EntityFramework.SqlServer.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\bin\Debug\EntityFramework.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\bin\Debug\EntityFramework.SqlServer.xml
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\obj\Debug\FOS.DataLayer.csprojAssemblyReference.cache
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CoreCompileInputs.cache
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\obj\Debug\FOS.DataLayer.csproj.CopyComplete
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\obj\Debug\FOS.DataLayer.dll
+F:\ZamZamProjects\Project\Project081122\Project\FOS.Services\obj\Debug\FOS.DataLayer.pdb

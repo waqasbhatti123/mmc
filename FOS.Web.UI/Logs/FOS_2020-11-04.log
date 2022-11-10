@@ -1,0 +1,240 @@
+2020-11-04 18:43:15.7190 - INFO: A new user is trying to sign in
+2020-11-04 18:43:20.9319 - INFO: Login failed
+2020-11-04 18:43:27.6666 - INFO: A new user is trying to sign in
+2020-11-04 18:43:29.5500 - INFO: Correct credentials
+2020-11-04 18:49:16.9288 - ERROR: Report Not Working
+EXCEPTION: System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception: The wait operation timed out
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<Reader>b__c(DbCommand t, DbCommandInterceptionContext`1 c)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Internal.InterceptableDbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   at System.Data.Entity.Core.Objects.ObjectContext.CreateFunctionObjectResult[TElement](EntityCommand entityCommand, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ExecutionOptions executionOptions)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__46()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__45()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ExecutionOptions executionOptions, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, MergeOption mergeOption, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ObjectParameter[] parameters)
+   at FOS.DataLayer.FOSDataModel.Sp_OrderSummeryReportNotSoldItem1_1(Nullable`1 startingDate, Nullable`1 endingDate, Nullable`1 distributorID, Nullable`1 rangeID, Nullable`1 saleOfficerID) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\FOSDataModel.Context.cs:line 2277
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2199
+2020-11-04 18:57:05.1449 - INFO: A new user is trying to sign in
+2020-11-04 18:57:15.2884 - INFO: Correct credentials
+2020-11-04 18:58:56.2804 - ERROR: Report Not Working
+EXCEPTION: System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception: The wait operation timed out
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<Reader>b__c(DbCommand t, DbCommandInterceptionContext`1 c)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Internal.InterceptableDbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   at System.Data.Entity.Core.Objects.ObjectContext.CreateFunctionObjectResult[TElement](EntityCommand entityCommand, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ExecutionOptions executionOptions)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__46()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__45()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ExecutionOptions executionOptions, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, MergeOption mergeOption, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ObjectParameter[] parameters)
+   at FOS.DataLayer.FOSDataModel.Sp_OrderSummeryReportNotSoldItem1_1(Nullable`1 startingDate, Nullable`1 endingDate, Nullable`1 distributorID, Nullable`1 rangeID, Nullable`1 saleOfficerID) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\FOSDataModel.Context.cs:line 2277
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2199
+2020-11-04 18:59:30.4347 - INFO: A new user is trying to sign in
+2020-11-04 18:59:37.3078 - INFO: Correct credentials
+2020-11-04 19:04:59.5277 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ProcessingAbortedException: An error has occurred during report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: Cannot create a data reader for dataset 'DataSet2'.
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeLiveQueryExecutor.ExecuteReader(IJobContext jobContext, DataSourceErrorInspector errorInspector, String commandText)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeLiveQueryExecutor.RunLiveQuery(List`1 queryParams, Object[] paramValues)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.RunEmbeddedQuery(List`1 queryParams, Object[] paramValues)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.RunDataSetQuery()
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.InitializeAndRunLiveQuery()
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.InitializeRowSourceAndProcessRows(ExecutedQuery existingQuery)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.Process(ExecutedQuery existingQuery)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.ProcessConcurrent(Object threadSet)
+   --- End of inner exception stack trace ---
+   at Microsoft.ReportingServices.OnDemandProcessing.AbortHelper.ThrowIfAborted(CancelationTrigger cancelationTrigger, String uniqueName)
+   at Microsoft.ReportingServices.OnDemandProcessing.OnDemandProcessingContext.CheckAndThrowIfAborted()
+   at Microsoft.ReportingServices.OnDemandProcessing.RetrievalManager.FetchData()
+   at Microsoft.ReportingServices.OnDemandProcessing.RetrievalManager.PrefetchData(ReportInstance reportInstance, ParameterInfoCollection parameters, Boolean mergeTran)
+   at Microsoft.ReportingServices.OnDemandProcessing.Merge.FetchData(ReportInstance reportInstance, Boolean mergeTransaction)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.ProcessReportOdpInitial.PreProcessSnapshot(OnDemandProcessingContext odpContext, Merge odpMerge, ReportInstance reportInstance, ReportSnapshot reportSnapshot)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.ProcessReportOdp.Execute(OnDemandProcessingContext& odpContext)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.ProcessReport(ProcessingErrorContext errorContext, ExecutionLogContext executionLogContext, UserProfileState& userProfileState)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2274
+2020-11-04 19:16:57.4114 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ProcessingAbortedException: An error has occurred during report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: Cannot create a data reader for dataset 'DataSet2'.
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeLiveQueryExecutor.ExecuteReader(IJobContext jobContext, DataSourceErrorInspector errorInspector, String commandText)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeLiveQueryExecutor.RunLiveQuery(List`1 queryParams, Object[] paramValues)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.RunEmbeddedQuery(List`1 queryParams, Object[] paramValues)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.RunDataSetQuery()
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.InitializeAndRunLiveQuery()
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.InitializeRowSourceAndProcessRows(ExecutedQuery existingQuery)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.Process(ExecutedQuery existingQuery)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.ProcessConcurrent(Object threadSet)
+   --- End of inner exception stack trace ---
+   at Microsoft.ReportingServices.OnDemandProcessing.AbortHelper.ThrowIfAborted(CancelationTrigger cancelationTrigger, String uniqueName)
+   at Microsoft.ReportingServices.OnDemandProcessing.OnDemandProcessingContext.CheckAndThrowIfAborted()
+   at Microsoft.ReportingServices.OnDemandProcessing.RetrievalManager.FetchData()
+   at Microsoft.ReportingServices.OnDemandProcessing.RetrievalManager.PrefetchData(ReportInstance reportInstance, ParameterInfoCollection parameters, Boolean mergeTran)
+   at Microsoft.ReportingServices.OnDemandProcessing.Merge.FetchData(ReportInstance reportInstance, Boolean mergeTransaction)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.ProcessReportOdpInitial.PreProcessSnapshot(OnDemandProcessingContext odpContext, Merge odpMerge, ReportInstance reportInstance, ReportSnapshot reportSnapshot)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.ProcessReportOdp.Execute(OnDemandProcessingContext& odpContext)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.ProcessReport(ProcessingErrorContext errorContext, ExecutionLogContext executionLogContext, UserProfileState& userProfileState)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2274
+2020-11-04 19:18:41.7467 - INFO: A new user is trying to sign in
+2020-11-04 19:18:48.1035 - INFO: Correct credentials
+2020-11-04 19:21:16.9135 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ProcessingAbortedException: An error has occurred during report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: Cannot create a data reader for dataset 'DataSet2'.
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeLiveQueryExecutor.ExecuteReader(IJobContext jobContext, DataSourceErrorInspector errorInspector, String commandText)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeLiveQueryExecutor.RunLiveQuery(List`1 queryParams, Object[] paramValues)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.RunEmbeddedQuery(List`1 queryParams, Object[] paramValues)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.RunDataSetQuery()
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.InitializeAndRunLiveQuery()
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.InitializeRowSourceAndProcessRows(ExecutedQuery existingQuery)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.Process(ExecutedQuery existingQuery)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.ProcessConcurrent(Object threadSet)
+   --- End of inner exception stack trace ---
+   at Microsoft.ReportingServices.OnDemandProcessing.AbortHelper.ThrowIfAborted(CancelationTrigger cancelationTrigger, String uniqueName)
+   at Microsoft.ReportingServices.OnDemandProcessing.OnDemandProcessingContext.CheckAndThrowIfAborted()
+   at Microsoft.ReportingServices.OnDemandProcessing.RetrievalManager.FetchData()
+   at Microsoft.ReportingServices.OnDemandProcessing.RetrievalManager.PrefetchData(ReportInstance reportInstance, ParameterInfoCollection parameters, Boolean mergeTran)
+   at Microsoft.ReportingServices.OnDemandProcessing.Merge.FetchData(ReportInstance reportInstance, Boolean mergeTransaction)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.ProcessReportOdpInitial.PreProcessSnapshot(OnDemandProcessingContext odpContext, Merge odpMerge, ReportInstance reportInstance, ReportSnapshot reportSnapshot)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.ProcessReportOdp.Execute(OnDemandProcessingContext& odpContext)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.ProcessReport(ProcessingErrorContext errorContext, ExecutionLogContext executionLogContext, UserProfileState& userProfileState)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2274
+2020-11-04 19:21:56.8966 - INFO: A new user is trying to sign in
+2020-11-04 19:22:03.2047 - INFO: Correct credentials
+2020-11-04 19:24:52.4294 - ERROR: Report Not Working
+EXCEPTION: Microsoft.Reporting.WebForms.LocalProcessingException: An error occurred during local report processing. ---> Microsoft.ReportingServices.ReportProcessing.ProcessingAbortedException: An error has occurred during report processing. ---> Microsoft.ReportingServices.ReportProcessing.ReportProcessingException: Cannot create a data reader for dataset 'DataSet2'.
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeLiveQueryExecutor.ExecuteReader(IJobContext jobContext, DataSourceErrorInspector errorInspector, String commandText)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeLiveQueryExecutor.RunLiveQuery(List`1 queryParams, Object[] paramValues)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.RunEmbeddedQuery(List`1 queryParams, Object[] paramValues)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.RunDataSetQuery()
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeDataSet.InitializeAndRunLiveQuery()
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.InitializeRowSourceAndProcessRows(ExecutedQuery existingQuery)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.Process(ExecutedQuery existingQuery)
+   at Microsoft.ReportingServices.OnDemandProcessing.RuntimeAtomicDataSet.ProcessConcurrent(Object threadSet)
+   --- End of inner exception stack trace ---
+   at Microsoft.ReportingServices.OnDemandProcessing.AbortHelper.ThrowIfAborted(CancelationTrigger cancelationTrigger, String uniqueName)
+   at Microsoft.ReportingServices.OnDemandProcessing.OnDemandProcessingContext.CheckAndThrowIfAborted()
+   at Microsoft.ReportingServices.OnDemandProcessing.RetrievalManager.FetchData()
+   at Microsoft.ReportingServices.OnDemandProcessing.RetrievalManager.PrefetchData(ReportInstance reportInstance, ParameterInfoCollection parameters, Boolean mergeTran)
+   at Microsoft.ReportingServices.OnDemandProcessing.Merge.FetchData(ReportInstance reportInstance, Boolean mergeTransaction)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.ProcessReportOdpInitial.PreProcessSnapshot(OnDemandProcessingContext odpContext, Merge odpMerge, ReportInstance reportInstance, ReportSnapshot reportSnapshot)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.ProcessReportOdp.Execute(OnDemandProcessingContext& odpContext)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReportOdpInitial.ProcessReport(ProcessingErrorContext errorContext, ExecutionLogContext executionLogContext, UserProfileState& userProfileState)
+   at Microsoft.ReportingServices.ReportProcessing.Execution.RenderReport.Execute(IRenderingExtension newRenderer)
+   at Microsoft.ReportingServices.ReportProcessing.ReportProcessing.RenderReport(IRenderingExtension newRenderer, DateTime executionTimeStamp, ProcessingContext pc, RenderingContext rc, IChunkFactory yukonCompiledDefinition)
+   at Microsoft.Reporting.LocalService.CreateSnapshotAndRender(ReportProcessing repProc, IRenderingExtension renderer, ProcessingContext pc, RenderingContext rc, SubreportCallbackHandler subreportHandler, ParameterInfoCollection parameters, DatasourceCredentialsCollection credentials)
+   at Microsoft.Reporting.LocalService.Render(String format, String deviceInfo, String paginationMode, Boolean allowInternalRenderers, IEnumerable dataSources, CreateAndRegisterStream createStreamCallback)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   --- End of inner exception stack trace ---
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, CreateAndRegisterStream createStreamCallback, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.InternalRender(String format, Boolean allowInternalRenderers, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.LocalReport.Render(String format, String deviceInfo, PageCountMode pageCountMode, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at Microsoft.Reporting.WebForms.Report.Render(String format, String deviceInfo, String& mimeType, String& encoding, String& fileNameExtension, String[]& streams, Warning[]& warnings)
+   at FOS.Web.UI.Controllers.ReportsController.OrderSummary(String StartingDate, String EndingDate, Nullable`1 DisID, Int32 TID, Int32 fosid, String type) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Web.UI\Controllers\ReportsController.cs:line 2274
+2020-11-04 19:28:16.1872 - INFO: A new user is trying to sign in
+2020-11-04 19:28:25.1675 - INFO: Correct credentials
+2020-11-04 19:30:58.7264 - INFO: A new user is trying to sign in
+2020-11-04 19:31:05.4305 - INFO: Correct credentials
+2020-11-04 20:12:07.4616 - INFO: A new user is trying to sign in
+2020-11-04 20:12:13.7892 - INFO: Correct credentials
+2020-11-04 20:15:20.1571 - ERROR: Data not Found
+EXCEPTION: System.Data.Entity.Core.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception: The wait operation timed out
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<Reader>b__c(DbCommand t, DbCommandInterceptionContext`1 c)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Internal.InterceptableDbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   at System.Data.Entity.Core.Objects.ObjectContext.CreateFunctionObjectResult[TElement](EntityCommand entityCommand, ReadOnlyCollection`1 entitySets, EdmType[] edmTypes, ExecutionOptions executionOptions)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__46()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass47`1.<ExecuteFunction>b__45()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ExecutionOptions executionOptions, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, MergeOption mergeOption, ObjectParameter[] parameters)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteFunction[TElement](String functionName, ObjectParameter[] parameters)
+   at FOS.DataLayer.FOSDataModel.Sp_AbsentSOBarGraph(Nullable`1 dateFrom, Nullable`1 dateTo) in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\FOS.Services\FOSDataModel.Context.cs:line 2918
+   at FOS.Setup.ManageRetailer.TotalPresentSO() in D:\GoldenPearl\10-25-2019 (8)\6-25-2019\Setup\ManageRetailer.cs:line 148

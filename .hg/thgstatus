@@ -1,0 +1,8 @@
+mFOS.Services
+mFOS.Web.UI
+mFOS.Web.UI/Controllers
+mFOS.Web.UI/Controllers/API
+mFOS.Web.UI/Views/Reports
+mFOS.Web.UI/Views/Retailer
+mSetup
+mUsers
